@@ -1,0 +1,1001 @@
+applicant_id,age,income_annual,employment_type,home_ownership,loan_purpose,education,loan_amount,credit_score,debt_to_income_ratio,default
+A00001,25,116975.0,Salaried,Rent,Home Improvement,Bachelor,4026.0,805.0,0.398,0
+A00002,58,87445.0,Salaried,Own,Medical,Bachelor,2611.0,,0.489,1
+A00003,53,66698.0,Salaried,Mortgage,Education,Bachelor,1472.0,674.0,0.438,0
+A00004,42,82912.0,Salaried,Mortgage,Auto,High School,1191.0,775.0,0.395,1
+A00005,42,90087.0,Retired,Mortgage,Home Improvement,PhD,7807.0,644.0,0.392,1
+A00006,63,81049.0,Salaried,Rent,Auto,Bachelor,899.0,666.0,0.488,0
+A00007,25,83612.0,Salaried,Own,Business,Bachelor,3463.0,702.0,0.47,0
+A00008,55,98922.0,Salaried,Rent,Education,Bachelor,988.0,692.0,0.393,0
+A00009,30,62743.0,Salaried,Rent,Auto,High School,2678.0,782.0,0.259,0
+A00010,25,40497.0,Salaried,Mortgage,Business,High School,2290.0,709.0,0.425,1
+A00011,46,97559.0,Self-Employed,Mortgage,Auto,Bachelor,1104.0,766.0,0.343,0
+A00012,68,40383.0,Retired,Mortgage,Business,High School,4054.0,672.0,0.334,1
+A00013,57,58060.0,Salaried,Mortgage,Auto,Bachelor,1402.0,632.0,0.759,0
+A00014,58,83047.0,Self-Employed,Rent,Business,Master,1001.0,665.0,0.123,0
+A00015,56,83942.0,Salaried,Mortgage,Business,High School,4340.0,605.0,0.509,1
+A00016,59,,Salaried,Rent,Business,High School,2305.0,711.0,0.231,0
+A00017,46,68798.0,Salaried,Mortgage,Auto,Bachelor,1762.0,655.0,0.377,0
+A00018,27,80418.0,Salaried,Mortgage,Business,High School,4488.0,636.0,0.752,1
+A00019,62,54984.0,Self-Employed,Rent,Home Improvement,Master,1354.0,712.0,0.213,0
+A00020,43,124730.0,Self-Employed,Mortgage,Auto,Bachelor,833.0,606.0,0.243,0
+A00021,45,50996.0,Self-Employed,Rent,Auto,High School,5609.0,730.0,0.38,0
+A00022,39,66185.0,Salaried,Own,Business,High School,7177.0,649.0,0.255,0
+A00023,29,60294.0,Self-Employed,Rent,Auto,Master,2635.0,755.0,0.496,0
+A00024,66,74478.0,Salaried,Rent,Business,High School,253.0,654.0,0.271,0
+A00025,59,122144.0,Salaried,Rent,Business,,2640.0,721.0,0.455,0
+A00026,52,49975.0,Salaried,Mortgage,Auto,High School,4611.0,692.0,0.178,0
+A00027,40,83563.0,Self-Employed,Rent,Medical,High School,5326.0,728.0,0.098,0
+A00028,61,,Retired,Mortgage,Medical,Master,1467.0,702.0,0.321,1
+A00029,47,106336.0,Salaried,Rent,Education,High School,2391.0,572.0,0.121,1
+A00030,42,52985.0,Self-Employed,Own,Home Improvement,High School,3291.0,746.0,0.596,1
+A00031,43,52196.0,Self-Employed,Mortgage,Auto,Bachelor,4463.0,674.0,0.146,0
+A00032,32,66481.0,Unemployed,Mortgage,Education,Master,4208.0,671.0,0.213,1
+A00033,25,66974.0,Salaried,Mortgage,Home Improvement,High School,3832.0,725.0,0.429,1
+A00034,48,48713.0,Self-Employed,Mortgage,Auto,High School,5288.0,630.0,0.295,1
+A00035,64,89995.0,Self-Employed,Rent,Home Improvement,PhD,2762.0,,0.131,1
+A00036,24,86701.0,Unemployed,Mortgage,Auto,Bachelor,6380.0,663.0,0.678,1
+A00037,63,142055.0,Salaried,Rent,Medical,Master,2040.0,660.0,0.204,0
+A00038,61,63411.0,Retired,Own,Auto,Master,4243.0,756.0,0.341,0
+A00039,34,48277.0,Salaried,Rent,Business,,2192.0,668.0,0.332,0
+A00040,51,50975.0,Unemployed,Rent,Business,Bachelor,2654.0,687.0,0.472,1
+A00041,29,80121.0,Salaried,Mortgage,Home Improvement,High School,2921.0,708.0,0.43,1
+A00042,58,53407.0,Salaried,Rent,Home Improvement,Bachelor,2118.0,699.0,0.238,0
+A00043,55,92438.0,Salaried,Rent,Business,Bachelor,5456.0,656.0,0.319,0
+A00044,38,55722.0,Salaried,Rent,Business,PhD,2261.0,695.0,0.328,1
+A00045,24,76016.0,Salaried,Mortgage,Medical,Bachelor,2831.0,758.0,0.474,0
+A00046,68,69256.0,Salaried,Mortgage,Home Improvement,High School,3968.0,676.0,0.192,0
+A00047,42,50765.0,Salaried,Rent,Business,Bachelor,9620.0,,0.71,1
+A00048,64,41119.0,Salaried,Mortgage,Home Improvement,Bachelor,4032.0,683.0,0.266,0
+A00049,54,109980.0,Self-Employed,Rent,Auto,Bachelor,2997.0,688.0,0.357,0
+A00050,59,80960.0,Retired,Mortgage,Medical,Master,725.0,807.0,0.179,0
+A00051,58,46054.0,Self-Employed,Rent,Business,Bachelor,2609.0,758.0,0.172,0
+A00052,30,,Salaried,Own,Auto,High School,1888.0,685.0,0.231,0
+A00053,38,140372.0,Salaried,Own,Auto,Bachelor,2385.0,694.0,0.21,0
+A00054,43,51975.0,Retired,Rent,Home Improvement,Bachelor,2166.0,649.0,0.3,1
+A00055,45,124008.0,Salaried,Rent,Education,Master,3981.0,669.0,0.213,0
+A00056,23,77707.0,Salaried,Rent,Auto,Bachelor,2590.0,700.0,0.464,1
+A00057,47,38168.0,Retired,Rent,Education,Bachelor,1609.0,750.0,0.245,0
+A00058,28,60721.0,Retired,Mortgage,Education,Bachelor,4728.0,,0.239,1
+A00059,57,94817.0,Salaried,Mortgage,Business,Bachelor,1268.0,608.0,0.295,0
+A00060,54,36439.0,Self-Employed,Own,Home Improvement,High School,2881.0,744.0,0.523,0
+A00061,66,57323.0,Salaried,Mortgage,Home Improvement,Master,2626.0,674.0,0.396,1
+A00062,57,56256.0,Self-Employed,Own,Business,Master,3506.0,616.0,0.354,1
+A00063,38,86232.0,Salaried,Rent,Business,Bachelor,5352.0,767.0,0.154,0
+A00064,68,83438.0,Salaried,Own,Education,Bachelor,10495.0,775.0,0.216,0
+A00065,41,86137.0,Self-Employed,Own,Home Improvement,High School,2984.0,697.0,0.169,1
+A00066,36,77323.0,Salaried,Own,Auto,Bachelor,1878.0,,0.553,1
+A00067,65,83385.0,Self-Employed,Own,Auto,Bachelor,1767.0,730.0,0.436,1
+A00068,39,43897.0,Salaried,Own,Home Improvement,Bachelor,1750.0,771.0,0.233,0
+A00069,24,77501.0,Retired,Rent,Home Improvement,High School,3444.0,742.0,0.279,0
+A00070,44,117671.0,Unemployed,Mortgage,Education,Bachelor,607.0,534.0,0.228,1
+A00071,59,71836.0,Salaried,Mortgage,Business,High School,1212.0,811.0,0.222,0
+A00072,30,56423.0,Self-Employed,Rent,Medical,Bachelor,3434.0,749.0,0.437,0
+A00073,43,58278.0,Salaried,Mortgage,Education,Bachelor,4859.0,647.0,0.332,0
+A00074,27,114271.0,Salaried,Rent,Education,High School,4920.0,613.0,0.675,1
+A00075,54,28850.0,Salaried,Mortgage,Auto,Bachelor,3038.0,713.0,0.569,0
+A00076,44,166491.0,Unemployed,Own,Medical,Master,4591.0,602.0,0.555,1
+A00077,37,34302.0,Unemployed,Mortgage,Education,Bachelor,5358.0,641.0,0.498,1
+A00078,32,63903.0,Retired,Rent,Medical,High School,2244.0,743.0,0.297,1
+A00079,48,46812.0,Unemployed,Mortgage,Auto,Bachelor,5066.0,583.0,0.472,1
+A00080,53,85727.0,Retired,Mortgage,Home Improvement,High School,944.0,622.0,0.301,1
+A00081,67,91151.0,Salaried,Mortgage,Business,Bachelor,1193.0,705.0,0.598,0
+A00082,42,75577.0,Retired,Rent,Home Improvement,Bachelor,2331.0,660.0,0.42,0
+A00083,28,67399.0,Self-Employed,Rent,Auto,High School,855.0,689.0,0.393,1
+A00084,61,37050.0,Salaried,Mortgage,Business,Bachelor,3961.0,593.0,0.401,0
+A00085,51,61476.0,Self-Employed,Rent,Home Improvement,Bachelor,2040.0,664.0,0.621,1
+A00086,55,66605.0,Salaried,Rent,Education,Master,2646.0,726.0,0.147,0
+A00087,25,46984.0,Salaried,Mortgage,Auto,High School,2697.0,719.0,0.643,1
+A00088,36,79695.0,Salaried,Own,Auto,High School,2297.0,629.0,0.331,0
+A00089,58,75726.0,Salaried,Own,Auto,Bachelor,1752.0,604.0,0.146,0
+A00090,61,63019.0,Salaried,Rent,Education,High School,3870.0,681.0,0.256,0
+A00091,42,70546.0,Retired,Mortgage,Education,Bachelor,2016.0,731.0,0.111,0
+A00092,60,62586.0,Self-Employed,Mortgage,Auto,,2682.0,706.0,0.461,1
+A00093,62,37401.0,Salaried,Mortgage,Business,High School,3515.0,,0.222,0
+A00094,39,84449.0,Salaried,Own,Auto,,5377.0,699.0,0.394,0
+A00095,65,27355.0,Salaried,Rent,Education,High School,5093.0,778.0,0.576,0
+A00096,35,78362.0,Salaried,Own,Business,Bachelor,2133.0,693.0,0.257,0
+A00097,32,43330.0,Unemployed,Rent,Auto,High School,1685.0,514.0,0.321,1
+A00098,54,80553.0,Salaried,Mortgage,Auto,,5987.0,,0.177,0
+A00099,52,81588.0,Self-Employed,Mortgage,Auto,Bachelor,2013.0,813.0,0.299,0
+A00100,27,81664.0,Self-Employed,Own,Auto,Master,3793.0,596.0,0.75,1
+A00101,61,,Self-Employed,Rent,Medical,Master,825.0,682.0,0.469,1
+A00102,30,110119.0,Unemployed,Own,Auto,Bachelor,593.0,605.0,0.312,1
+A00103,60,60454.0,Salaried,Own,Auto,Bachelor,2970.0,686.0,0.273,0
+A00104,21,94103.0,Retired,Rent,Home Improvement,High School,2480.0,708.0,0.352,0
+A00105,60,,Self-Employed,Mortgage,Home Improvement,Bachelor,4340.0,754.0,0.391,1
+A00106,59,79543.0,Self-Employed,Mortgage,Auto,High School,1767.0,686.0,0.294,0
+A00107,59,99483.0,Self-Employed,Own,Education,Bachelor,3398.0,763.0,0.44,0
+A00108,53,52187.0,Unemployed,Rent,Medical,,4204.0,,0.231,1
+A00109,44,,Retired,Mortgage,Home Improvement,Master,1798.0,672.0,0.224,0
+A00110,55,50469.0,Salaried,Own,Business,Bachelor,2320.0,637.0,0.419,0
+A00111,34,105090.0,Unemployed,Mortgage,Auto,Bachelor,1359.0,,0.179,1
+A00112,59,48303.0,Self-Employed,Own,Auto,Bachelor,4420.0,698.0,0.487,1
+A00113,48,102838.0,Salaried,Mortgage,Education,High School,3924.0,814.0,0.359,0
+A00114,43,50556.0,Retired,Own,Home Improvement,High School,4057.0,725.0,0.1,0
+A00115,45,65451.0,Salaried,Own,Home Improvement,Master,2462.0,725.0,0.378,0
+A00116,48,70647.0,Self-Employed,Mortgage,Auto,Master,3865.0,,0.114,1
+A00117,22,48225.0,Salaried,Rent,Medical,High School,316.0,664.0,0.456,1
+A00118,27,65714.0,Salaried,Own,Auto,Bachelor,2596.0,744.0,0.325,0
+A00119,33,39462.0,Unemployed,Own,Business,Bachelor,6512.0,751.0,0.677,1
+A00120,26,62386.0,Salaried,Rent,Home Improvement,High School,2831.0,777.0,0.524,1
+A00121,42,68544.0,Salaried,Rent,Education,Bachelor,4963.0,732.0,0.213,0
+A00122,53,30243.0,Salaried,Rent,Auto,,2456.0,682.0,0.071,1
+A00123,53,50321.0,Salaried,Own,Medical,High School,5768.0,694.0,0.271,1
+A00124,44,78650.0,Unemployed,Mortgage,Education,Bachelor,1692.0,571.0,0.173,1
+A00125,62,46339.0,Retired,Own,Business,High School,3616.0,601.0,0.647,1
+A00126,48,83429.0,Salaried,Own,Education,Master,1912.0,,0.355,1
+A00127,24,86463.0,Self-Employed,Mortgage,Home Improvement,Bachelor,3306.0,683.0,0.501,1
+A00128,58,78524.0,Salaried,Mortgage,Auto,Master,2018.0,661.0,0.315,1
+A00129,49,93679.0,Self-Employed,Mortgage,Auto,Bachelor,2839.0,584.0,0.332,1
+A00130,52,38630.0,Salaried,Mortgage,Education,Master,2189.0,678.0,0.362,1
+A00131,48,101189.0,Salaried,Mortgage,Auto,Bachelor,4153.0,659.0,0.528,1
+A00132,48,,Salaried,Mortgage,Education,Bachelor,3705.0,604.0,0.42,1
+A00133,25,73607.0,Self-Employed,Rent,Business,Bachelor,1866.0,656.0,0.199,0
+A00134,48,131719.0,Salaried,Rent,Auto,Master,1850.0,659.0,0.598,1
+A00135,59,61906.0,Salaried,Mortgage,Auto,High School,1594.0,640.0,0.314,0
+A00136,35,71297.0,Unemployed,Mortgage,Auto,,1397.0,680.0,0.288,0
+A00137,50,48593.0,Self-Employed,Mortgage,Auto,Master,4275.0,556.0,0.02,0
+A00138,22,,Salaried,Own,Home Improvement,Bachelor,1553.0,551.0,0.449,1
+A00139,38,50360.0,Unemployed,Rent,Home Improvement,Master,3448.0,,0.386,1
+A00140,42,89271.0,Unemployed,Own,Auto,Bachelor,2092.0,626.0,0.372,1
+A00141,69,110043.0,Salaried,Mortgage,Business,High School,4916.0,706.0,0.303,1
+A00142,31,92457.0,Self-Employed,Mortgage,Business,Bachelor,7454.0,645.0,0.288,0
+A00143,34,80307.0,Salaried,Own,Home Improvement,Bachelor,242.0,620.0,0.295,1
+A00144,41,73196.0,Self-Employed,Own,Education,High School,1677.0,680.0,0.426,0
+A00145,69,43943.0,Salaried,Mortgage,Education,,2055.0,651.0,0.46,0
+A00146,62,128842.0,Self-Employed,Rent,Education,High School,2540.0,781.0,0.321,0
+A00147,22,77880.0,Salaried,Mortgage,Home Improvement,Master,2426.0,659.0,0.502,1
+A00148,32,71313.0,Salaried,Mortgage,Business,Master,1177.0,677.0,0.343,0
+A00149,61,47168.0,Retired,Own,Medical,Bachelor,7482.0,850.0,0.322,0
+A00150,23,72580.0,Salaried,Mortgage,Auto,High School,2478.0,667.0,0.39,1
+A00151,62,69683.0,Unemployed,Own,Business,Bachelor,3708.0,656.0,0.162,1
+A00152,34,131718.0,Retired,Mortgage,Home Improvement,Master,3812.0,737.0,0.394,1
+A00153,65,71297.0,Unemployed,Rent,Education,Bachelor,997.0,668.0,0.123,1
+A00154,35,72154.0,Salaried,Mortgage,Business,High School,2279.0,699.0,0.205,0
+A00155,42,47366.0,Unemployed,Mortgage,Education,High School,4274.0,633.0,0.074,0
+A00156,53,53800.0,Salaried,Own,Medical,Master,5977.0,687.0,0.357,0
+A00157,27,85325.0,Salaried,Own,Medical,Master,2314.0,643.0,0.6,1
+A00158,48,36279.0,Unemployed,Mortgage,Business,High School,1125.0,641.0,0.342,0
+A00159,45,100980.0,Self-Employed,Rent,Home Improvement,Master,1966.0,812.0,0.452,0
+A00160,59,102024.0,Salaried,Own,Education,High School,2259.0,759.0,0.709,0
+A00161,69,51826.0,Salaried,Mortgage,Education,High School,2189.0,700.0,0.423,0
+A00162,53,80417.0,Unemployed,Rent,Education,Master,1600.0,,0.241,1
+A00163,41,111439.0,Self-Employed,Own,Auto,Bachelor,1055.0,624.0,0.259,0
+A00164,40,67642.0,Salaried,Own,Education,Bachelor,1342.0,663.0,0.356,0
+A00165,41,63128.0,Retired,Mortgage,Auto,Master,1964.0,757.0,0.264,0
+A00166,60,65923.0,Salaried,Rent,Education,Master,4247.0,777.0,0.286,0
+A00167,36,77815.0,Salaried,Mortgage,Auto,High School,5188.0,630.0,0.518,0
+A00168,29,56246.0,Self-Employed,Rent,Education,Bachelor,3007.0,649.0,0.52,1
+A00169,37,61212.0,Retired,Rent,Business,Master,1367.0,837.0,0.11,0
+A00170,22,78385.0,Salaried,Rent,Auto,Bachelor,2040.0,686.0,0.235,0
+A00171,26,59428.0,Salaried,Rent,Business,PhD,611.0,799.0,0.283,0
+A00172,25,45954.0,Salaried,Rent,Home Improvement,Bachelor,6033.0,693.0,0.479,1
+A00173,58,35273.0,Unemployed,Rent,Medical,High School,1831.0,636.0,0.537,1
+A00174,56,71805.0,Salaried,Rent,Auto,High School,3532.0,660.0,0.77,0
+A00175,55,108741.0,Salaried,Rent,Education,Master,5011.0,741.0,0.294,0
+A00176,43,81904.0,Retired,Rent,Medical,PhD,7009.0,783.0,0.313,0
+A00177,56,46557.0,Salaried,Rent,Medical,High School,4499.0,613.0,0.467,0
+A00178,28,53662.0,Self-Employed,Mortgage,Auto,High School,2181.0,657.0,0.26,0
+A00179,65,62961.0,Salaried,Mortgage,Education,Master,3802.0,739.0,0.347,0
+A00180,45,133411.0,Unemployed,Mortgage,Medical,High School,6924.0,,0.303,1
+A00181,66,136324.0,Salaried,Rent,Auto,High School,1851.0,648.0,0.02,0
+A00182,28,129872.0,Salaried,Mortgage,Business,Master,1020.0,746.0,0.371,0
+A00183,45,74467.0,Salaried,Rent,Auto,Master,1607.0,752.0,0.329,1
+A00184,55,200435.0,Self-Employed,Rent,Education,Master,3740.0,651.0,0.546,1
+A00185,45,54594.0,Self-Employed,Rent,Business,Bachelor,2216.0,694.0,0.363,1
+A00186,42,62134.0,Salaried,Own,Auto,High School,2669.0,601.0,0.175,0
+A00187,29,98010.0,Salaried,Rent,Business,Master,4037.0,622.0,0.324,1
+A00188,39,78536.0,Retired,Rent,Education,High School,1584.0,703.0,0.042,0
+A00189,32,80186.0,Salaried,Rent,Education,High School,2598.0,682.0,0.178,0
+A00190,35,34300.0,Salaried,Rent,Home Improvement,Master,2003.0,,0.463,0
+A00191,54,49206.0,Self-Employed,Mortgage,Education,Bachelor,6676.0,633.0,0.354,0
+A00192,51,69499.0,Salaried,Mortgage,Auto,Master,4437.0,611.0,0.508,1
+A00193,50,54877.0,Salaried,Own,Home Improvement,High School,2226.0,,0.067,1
+A00194,38,42915.0,Salaried,Rent,Business,PhD,2145.0,552.0,0.329,0
+A00195,68,57165.0,Salaried,Mortgage,Business,Bachelor,7108.0,614.0,0.316,0
+A00196,25,78545.0,Salaried,Rent,Auto,Bachelor,6810.0,,0.519,1
+A00197,37,91952.0,Self-Employed,Rent,Auto,Master,3661.0,707.0,0.463,0
+A00198,26,34880.0,Self-Employed,Mortgage,Business,Bachelor,2731.0,,0.47,1
+A00199,37,70681.0,Salaried,Own,Auto,Bachelor,1192.0,682.0,0.586,1
+A00200,68,68362.0,Unemployed,Own,Auto,Bachelor,1615.0,727.0,0.302,0
+A00201,38,77053.0,Salaried,Rent,Business,Master,1130.0,789.0,0.555,0
+A00202,65,46853.0,Self-Employed,Mortgage,Education,Master,5071.0,563.0,0.226,1
+A00203,45,47170.0,Salaried,Own,Auto,Bachelor,1200.0,699.0,0.196,1
+A00204,55,109869.0,Self-Employed,Rent,Auto,High School,2151.0,616.0,0.469,1
+A00205,43,27961.0,Salaried,Mortgage,Education,High School,703.0,602.0,0.132,1
+A00206,34,52062.0,Salaried,Rent,Business,PhD,935.0,673.0,0.441,1
+A00207,58,61066.0,Salaried,Mortgage,Home Improvement,PhD,4118.0,760.0,0.385,0
+A00208,68,63301.0,Salaried,Own,Auto,PhD,3325.0,719.0,0.527,0
+A00209,33,55240.0,Salaried,Own,Auto,,2800.0,634.0,0.356,1
+A00210,59,84354.0,Self-Employed,Mortgage,Medical,Bachelor,2167.0,726.0,0.366,1
+A00211,33,81722.0,Unemployed,Mortgage,Education,Master,852.0,474.0,0.43,1
+A00212,56,67264.0,Salaried,Rent,Medical,Master,1983.0,,0.259,0
+A00213,59,56370.0,Retired,Mortgage,Home Improvement,High School,2494.0,641.0,0.257,0
+A00214,43,65357.0,Self-Employed,Mortgage,Medical,Bachelor,3962.0,685.0,0.439,0
+A00215,57,72832.0,Unemployed,Mortgage,Education,High School,4936.0,607.0,0.366,0
+A00216,34,53685.0,Self-Employed,Mortgage,Home Improvement,Bachelor,4187.0,,0.312,0
+A00217,24,86672.0,Self-Employed,Rent,Auto,High School,3327.0,669.0,0.349,0
+A00218,25,100694.0,Salaried,Own,Home Improvement,High School,2795.0,681.0,0.598,1
+A00219,42,117095.0,Self-Employed,Rent,Medical,High School,3152.0,715.0,0.292,0
+A00220,65,114301.0,Retired,Mortgage,Medical,Master,1914.0,705.0,0.284,0
+A00221,27,63157.0,Salaried,Own,Home Improvement,Bachelor,2922.0,662.0,0.108,0
+A00222,43,74148.0,Salaried,Own,Medical,Master,2492.0,706.0,0.354,1
+A00223,55,66802.0,Salaried,Own,Education,,8720.0,734.0,0.488,0
+A00224,30,66715.0,Retired,Rent,Auto,Bachelor,3173.0,659.0,0.49,1
+A00225,56,65192.0,Salaried,Mortgage,Business,Bachelor,571.0,676.0,0.369,0
+A00226,35,71156.0,Self-Employed,Mortgage,Medical,Bachelor,2091.0,756.0,0.502,0
+A00227,60,106966.0,Unemployed,Rent,Auto,Bachelor,2340.0,548.0,0.466,1
+A00228,49,79416.0,Retired,Mortgage,Business,Bachelor,4529.0,812.0,0.534,0
+A00229,47,46151.0,Salaried,Rent,Business,Master,3400.0,593.0,0.52,1
+A00230,29,99083.0,Self-Employed,Rent,Education,Master,3329.0,658.0,0.596,1
+A00231,43,76667.0,Retired,Rent,Auto,High School,5695.0,633.0,0.347,1
+A00232,62,84710.0,Salaried,Rent,Education,Bachelor,6835.0,,0.175,1
+A00233,21,78841.0,Self-Employed,Rent,Auto,High School,4126.0,647.0,0.465,0
+A00234,58,,Salaried,Mortgage,Auto,High School,2195.0,647.0,0.475,1
+A00235,45,81523.0,Self-Employed,Rent,Education,Bachelor,2237.0,656.0,0.594,0
+A00236,56,37151.0,Salaried,Own,Auto,Bachelor,141.0,686.0,0.543,0
+A00237,53,84314.0,Salaried,Rent,Auto,Bachelor,5296.0,659.0,0.661,0
+A00238,42,54494.0,Salaried,Rent,Business,High School,2223.0,671.0,0.455,1
+A00239,36,59366.0,Salaried,Own,Education,PhD,2664.0,451.0,0.398,1
+A00240,51,70950.0,Salaried,Rent,Home Improvement,,2063.0,684.0,0.151,0
+A00241,27,124241.0,Self-Employed,Rent,Home Improvement,Bachelor,1365.0,681.0,0.4,1
+A00242,49,48828.0,Salaried,Own,Medical,Master,8317.0,748.0,0.318,0
+A00243,25,70082.0,Salaried,Mortgage,Home Improvement,High School,2680.0,765.0,0.393,1
+A00244,52,64626.0,Self-Employed,Rent,Home Improvement,Bachelor,6138.0,668.0,0.387,1
+A00245,51,98542.0,Self-Employed,Rent,Education,Master,2258.0,733.0,0.428,1
+A00246,25,,Salaried,Own,Business,Master,1839.0,608.0,0.344,0
+A00247,58,76985.0,Retired,Mortgage,Auto,Master,3927.0,745.0,0.506,0
+A00248,41,48877.0,Salaried,Rent,Business,Bachelor,4905.0,643.0,0.02,1
+A00249,59,104795.0,Unemployed,Own,Medical,Master,5130.0,543.0,0.393,1
+A00250,23,41716.0,Salaried,Mortgage,Auto,Bachelor,2467.0,668.0,0.548,1
+A00251,29,83891.0,Self-Employed,Own,Auto,High School,4167.0,771.0,0.645,1
+A00252,45,77162.0,Retired,Own,Home Improvement,High School,1974.0,707.0,0.467,1
+A00253,30,81277.0,Unemployed,Mortgage,Education,Master,2908.0,717.0,0.613,0
+A00254,37,41915.0,Self-Employed,Rent,Auto,Bachelor,2323.0,,0.392,1
+A00255,53,63516.0,Self-Employed,Mortgage,Auto,Bachelor,2118.0,748.0,0.36,1
+A00256,28,96735.0,Salaried,Rent,Medical,Master,2988.0,638.0,0.439,1
+A00257,54,131583.0,Self-Employed,Mortgage,Home Improvement,Bachelor,1342.0,695.0,0.353,1
+A00258,26,68203.0,Self-Employed,Mortgage,Business,Bachelor,4694.0,694.0,0.253,0
+A00259,29,93323.0,Retired,Own,Education,Bachelor,2133.0,738.0,0.28,0
+A00260,49,74459.0,Salaried,Own,Auto,Bachelor,4574.0,696.0,0.202,0
+A00261,59,69477.0,Salaried,Mortgage,Auto,Master,1523.0,632.0,0.436,0
+A00262,29,60928.0,Self-Employed,Own,Medical,Bachelor,2117.0,737.0,0.362,0
+A00263,35,71078.0,Salaried,Own,Business,Bachelor,1325.0,793.0,0.302,0
+A00264,66,,Salaried,Own,Business,Bachelor,1296.0,642.0,0.269,0
+A00265,69,,Salaried,Rent,Education,Bachelor,1665.0,561.0,0.431,0
+A00266,49,44702.0,Self-Employed,Mortgage,Medical,Master,1532.0,712.0,0.477,0
+A00267,42,58996.0,Salaried,Rent,Education,High School,1330.0,658.0,0.187,1
+A00268,37,48043.0,Salaried,Rent,Medical,Master,2776.0,,0.174,0
+A00269,51,72363.0,Salaried,Mortgage,Medical,Bachelor,3881.0,716.0,0.509,0
+A00270,49,62714.0,Unemployed,Own,Business,High School,3990.0,590.0,0.163,0
+A00271,35,80281.0,Self-Employed,Mortgage,Medical,Bachelor,803.0,663.0,0.435,0
+A00272,22,82310.0,Salaried,Own,Home Improvement,Bachelor,2330.0,673.0,0.601,0
+A00273,28,31364.0,Salaried,Mortgage,Education,Bachelor,2171.0,776.0,0.614,1
+A00274,67,70880.0,Self-Employed,Mortgage,Auto,Master,5746.0,682.0,0.485,0
+A00275,41,,Salaried,Mortgage,Auto,High School,2395.0,600.0,0.463,0
+A00276,44,59005.0,Self-Employed,Mortgage,Medical,High School,2643.0,602.0,0.701,1
+A00277,43,58399.0,Salaried,Rent,Medical,Bachelor,1025.0,689.0,0.02,0
+A00278,59,100651.0,Retired,Rent,Medical,Bachelor,1639.0,622.0,0.285,1
+A00279,24,94590.0,Salaried,Rent,Business,Bachelor,986.0,578.0,0.48,1
+A00280,25,49716.0,Self-Employed,Mortgage,Auto,Master,2884.0,721.0,0.317,1
+A00281,34,91131.0,Salaried,Mortgage,Business,Bachelor,5868.0,724.0,0.555,0
+A00282,44,,Retired,Own,Business,High School,1663.0,671.0,0.353,0
+A00283,53,58187.0,Retired,Rent,Education,,2387.0,714.0,0.382,0
+A00284,45,49701.0,Self-Employed,Mortgage,Education,High School,1540.0,692.0,0.318,0
+A00285,42,44584.0,Salaried,Mortgage,Auto,Bachelor,1865.0,719.0,0.284,0
+A00286,66,73891.0,Salaried,Mortgage,Education,High School,2931.0,719.0,0.28,1
+A00287,28,42346.0,Unemployed,Rent,Business,Bachelor,7356.0,451.0,0.443,1
+A00288,49,74975.0,Self-Employed,Mortgage,Home Improvement,Master,5692.0,664.0,0.257,0
+A00289,47,74124.0,Salaried,Mortgage,Medical,Bachelor,6628.0,714.0,0.52,0
+A00290,44,67110.0,Salaried,Mortgage,Education,High School,4592.0,653.0,0.469,0
+A00291,60,59981.0,Salaried,Mortgage,Business,High School,2369.0,682.0,0.527,0
+A00292,34,55902.0,Unemployed,Mortgage,Business,Bachelor,2172.0,669.0,0.192,1
+A00293,67,47555.0,Self-Employed,Mortgage,Education,Bachelor,1668.0,685.0,0.106,0
+A00294,37,117436.0,Self-Employed,Mortgage,Home Improvement,High School,381.0,,0.35,0
+A00295,47,66050.0,Self-Employed,Rent,Auto,,2348.0,753.0,0.795,1
+A00296,46,65264.0,Salaried,Own,Auto,Bachelor,5889.0,672.0,0.567,1
+A00297,62,50512.0,Salaried,Rent,Auto,Bachelor,5838.0,667.0,0.302,0
+A00298,42,112624.0,Salaried,Mortgage,Auto,High School,8975.0,495.0,0.438,1
+A00299,34,57129.0,Self-Employed,Rent,Home Improvement,Bachelor,3052.0,659.0,0.475,1
+A00300,22,77559.0,Salaried,Mortgage,Education,High School,1193.0,592.0,0.149,1
+A00301,38,82979.0,Salaried,Rent,Auto,High School,3742.0,694.0,0.569,1
+A00302,61,73911.0,Salaried,Mortgage,Education,Bachelor,7439.0,690.0,0.355,0
+A00303,21,42013.0,Salaried,Rent,Education,Bachelor,6297.0,,0.381,1
+A00304,64,89698.0,Self-Employed,Mortgage,Education,Master,2031.0,,0.36,0
+A00305,47,56925.0,Salaried,Rent,Auto,Master,1267.0,678.0,0.528,1
+A00306,27,94238.0,Salaried,Rent,Business,High School,1251.0,828.0,0.241,1
+A00307,35,55657.0,Self-Employed,Own,Auto,High School,1740.0,695.0,0.103,0
+A00308,48,69279.0,Salaried,Mortgage,Business,Master,1916.0,595.0,0.407,0
+A00309,36,84824.0,Salaried,Mortgage,Auto,PhD,2271.0,643.0,0.051,0
+A00310,26,109759.0,Salaried,Mortgage,Business,Master,4045.0,656.0,0.316,0
+A00311,53,88475.0,Unemployed,Mortgage,Business,High School,2224.0,658.0,0.536,1
+A00312,53,85580.0,Salaried,Mortgage,Auto,,2833.0,618.0,0.447,0
+A00313,26,91200.0,Self-Employed,Mortgage,Auto,,936.0,,0.509,1
+A00314,34,52824.0,Retired,Own,Home Improvement,Master,1671.0,685.0,0.453,1
+A00315,32,95727.0,Self-Employed,Rent,Medical,Bachelor,1633.0,651.0,0.717,1
+A00316,53,64248.0,Salaried,Mortgage,Business,Bachelor,819.0,,0.266,0
+A00317,56,64996.0,Self-Employed,Rent,Auto,Bachelor,2181.0,722.0,0.42,1
+A00318,56,,Salaried,Own,Auto,High School,938.0,756.0,0.288,0
+A00319,66,62147.0,Salaried,Mortgage,Medical,Bachelor,2085.0,658.0,0.504,1
+A00320,58,49083.0,Salaried,Own,Home Improvement,High School,2946.0,758.0,0.359,0
+A00321,36,71081.0,Salaried,Rent,Auto,Bachelor,5951.0,591.0,0.633,1
+A00322,26,65106.0,Salaried,Mortgage,Business,Bachelor,1571.0,590.0,0.278,0
+A00323,51,64285.0,Salaried,Rent,Business,Bachelor,2905.0,601.0,0.575,1
+A00324,65,68487.0,Salaried,Mortgage,Auto,High School,1822.0,681.0,0.447,0
+A00325,68,32327.0,Salaried,Mortgage,Education,Master,895.0,758.0,0.353,1
+A00326,32,64453.0,Self-Employed,Mortgage,Auto,Bachelor,5983.0,641.0,0.459,0
+A00327,32,114997.0,Retired,Mortgage,Education,High School,3059.0,664.0,0.397,1
+A00328,22,,Salaried,Mortgage,Business,High School,3649.0,666.0,0.413,1
+A00329,27,71971.0,Self-Employed,Mortgage,Education,Bachelor,6537.0,717.0,0.346,1
+A00330,48,71098.0,Salaried,Own,Auto,High School,2082.0,649.0,0.254,1
+A00331,47,29823.0,Salaried,Own,Business,High School,1141.0,645.0,0.311,0
+A00332,39,58067.0,Salaried,Own,Medical,High School,1554.0,593.0,0.106,1
+A00333,36,90862.0,Salaried,Rent,Medical,High School,1080.0,,0.48,0
+A00334,61,61618.0,Salaried,Mortgage,Medical,Bachelor,5072.0,757.0,0.189,0
+A00335,43,102176.0,Salaried,Own,Auto,Bachelor,7635.0,,0.34,1
+A00336,60,99845.0,Salaried,Rent,Business,High School,2952.0,,0.456,1
+A00337,68,57669.0,Salaried,Own,Education,Bachelor,4076.0,760.0,0.497,1
+A00338,36,73917.0,Salaried,Mortgage,Education,High School,4707.0,642.0,0.103,1
+A00339,30,118519.0,Salaried,Rent,Auto,High School,6832.0,772.0,0.354,1
+A00340,67,41703.0,Salaried,Rent,Medical,High School,7384.0,,0.472,1
+A00341,52,,Salaried,Rent,Business,Master,678.0,684.0,0.361,1
+A00342,35,40309.0,Salaried,Mortgage,Education,,1847.0,583.0,0.565,0
+A00343,51,51517.0,Salaried,Rent,Home Improvement,Bachelor,2734.0,829.0,0.243,0
+A00344,46,131895.0,Salaried,Own,Home Improvement,High School,1730.0,705.0,0.047,0
+A00345,65,62094.0,Salaried,Rent,Auto,High School,2298.0,659.0,0.483,1
+A00346,33,34670.0,Retired,Rent,Business,High School,3469.0,757.0,0.299,0
+A00347,69,48911.0,Salaried,Rent,Education,Master,468.0,726.0,0.089,0
+A00348,66,38918.0,Salaried,Mortgage,Home Improvement,High School,3417.0,765.0,0.353,1
+A00349,29,74942.0,Salaried,Own,Auto,PhD,4621.0,637.0,0.553,0
+A00350,29,82534.0,Retired,Rent,Education,Bachelor,2785.0,716.0,0.171,1
+A00351,47,96206.0,Self-Employed,Mortgage,Education,Bachelor,415.0,603.0,0.702,1
+A00352,23,89060.0,Self-Employed,Mortgage,Auto,Master,2190.0,723.0,0.232,0
+A00353,35,42361.0,Retired,Rent,Business,High School,3278.0,694.0,0.386,0
+A00354,42,81015.0,Salaried,Mortgage,Medical,Master,4813.0,698.0,0.185,0
+A00355,68,67424.0,Retired,Mortgage,Auto,High School,4417.0,685.0,0.376,1
+A00356,69,101388.0,Salaried,Mortgage,Medical,Master,2569.0,664.0,0.338,1
+A00357,28,92783.0,Self-Employed,Own,Home Improvement,Bachelor,1785.0,624.0,0.132,0
+A00358,64,138746.0,Salaried,Own,Business,High School,2659.0,731.0,0.78,1
+A00359,25,50252.0,Salaried,Own,Medical,Master,759.0,777.0,0.28,0
+A00360,57,47802.0,Retired,Rent,Education,High School,1885.0,659.0,0.288,0
+A00361,62,59318.0,Salaried,Rent,Auto,High School,5298.0,716.0,0.522,0
+A00362,64,68387.0,Retired,Mortgage,Home Improvement,Master,2623.0,723.0,0.634,0
+A00363,31,55278.0,Salaried,Mortgage,Business,Bachelor,3367.0,681.0,0.537,1
+A00364,64,51155.0,Self-Employed,Rent,Medical,Master,1040.0,581.0,0.176,0
+A00365,26,79072.0,Retired,Rent,Home Improvement,Bachelor,4793.0,610.0,0.4,1
+A00366,46,59254.0,Salaried,Rent,Auto,Bachelor,2473.0,629.0,0.08,0
+A00367,44,54464.0,Retired,Mortgage,Business,High School,3300.0,556.0,0.503,1
+A00368,36,42335.0,Self-Employed,Rent,Auto,High School,3718.0,772.0,0.131,0
+A00369,22,30582.0,Self-Employed,Mortgage,Auto,PhD,4656.0,704.0,0.275,1
+A00370,58,112847.0,Salaried,Mortgage,Medical,High School,3038.0,678.0,0.358,0
+A00371,37,111560.0,Salaried,Rent,Education,Bachelor,2530.0,538.0,0.424,0
+A00372,53,93834.0,Self-Employed,Mortgage,Home Improvement,High School,1219.0,561.0,0.315,1
+A00373,41,85710.0,Salaried,Mortgage,Education,,978.0,680.0,0.581,1
+A00374,39,57342.0,Salaried,Mortgage,Business,Bachelor,2975.0,808.0,0.474,0
+A00375,64,86997.0,Salaried,Mortgage,Business,Master,3330.0,635.0,0.458,0
+A00376,25,46646.0,Unemployed,Mortgage,Business,Master,3630.0,676.0,0.189,1
+A00377,57,73273.0,Salaried,Rent,Home Improvement,Master,1579.0,649.0,0.611,1
+A00378,57,52865.0,Self-Employed,Mortgage,Education,High School,1897.0,,0.24,0
+A00379,39,87130.0,Retired,Own,Education,Bachelor,2958.0,774.0,0.621,0
+A00380,33,121632.0,Salaried,Rent,Auto,High School,2075.0,658.0,0.658,0
+A00381,21,48847.0,Salaried,Mortgage,Auto,,9291.0,635.0,0.484,1
+A00382,66,58332.0,Self-Employed,Rent,Home Improvement,High School,1873.0,772.0,0.514,1
+A00383,67,72781.0,Salaried,Own,Medical,Bachelor,3456.0,683.0,0.02,0
+A00384,32,35995.0,Self-Employed,Mortgage,Education,High School,4319.0,751.0,0.357,1
+A00385,22,39523.0,Self-Employed,Mortgage,Auto,Master,4473.0,635.0,0.549,0
+A00386,27,120240.0,Self-Employed,Rent,Medical,,2051.0,771.0,0.494,0
+A00387,24,79198.0,Salaried,Own,Business,Master,3752.0,698.0,0.181,1
+A00388,61,56237.0,Self-Employed,Rent,Education,High School,3474.0,708.0,0.324,1
+A00389,64,70007.0,Self-Employed,Mortgage,Business,PhD,3839.0,689.0,0.02,0
+A00390,28,,Salaried,Mortgage,Business,High School,2921.0,647.0,0.427,1
+A00391,57,73563.0,Self-Employed,Mortgage,Business,High School,4363.0,680.0,0.085,0
+A00392,29,60190.0,Retired,Own,Auto,High School,3130.0,666.0,0.535,0
+A00393,38,68059.0,Self-Employed,Mortgage,Business,High School,1113.0,742.0,0.532,0
+A00394,50,89976.0,Salaried,Mortgage,Auto,Bachelor,3090.0,667.0,0.289,1
+A00395,56,87839.0,Salaried,Mortgage,Education,High School,3305.0,583.0,0.439,0
+A00396,63,117600.0,Salaried,Mortgage,Business,,4221.0,571.0,0.328,0
+A00397,23,81238.0,Salaried,Mortgage,Business,Bachelor,2989.0,568.0,0.397,1
+A00398,30,71608.0,Salaried,Own,Auto,Master,6871.0,720.0,0.207,1
+A00399,34,124370.0,Retired,Own,Home Improvement,Bachelor,2589.0,620.0,0.45,0
+A00400,36,65536.0,Salaried,Own,Auto,Bachelor,1967.0,,0.113,0
+A00401,69,31473.0,Unemployed,Own,Medical,High School,5660.0,629.0,0.129,1
+A00402,59,94268.0,Salaried,Mortgage,Home Improvement,Master,2534.0,676.0,0.34,0
+A00403,36,77746.0,Salaried,Own,Medical,High School,2825.0,708.0,0.329,0
+A00404,68,70400.0,Salaried,Rent,Business,High School,3296.0,690.0,0.405,1
+A00405,45,95198.0,Salaried,Own,Medical,High School,3149.0,504.0,0.262,1
+A00406,45,60372.0,Self-Employed,Own,Business,Bachelor,3815.0,,0.652,1
+A00407,42,31953.0,Retired,Rent,Business,Bachelor,4024.0,723.0,0.412,0
+A00408,28,95901.0,Unemployed,Mortgage,Business,Bachelor,1866.0,727.0,0.391,0
+A00409,66,55544.0,Salaried,Mortgage,Auto,High School,1283.0,,0.387,0
+A00410,21,49518.0,Self-Employed,Rent,Business,Bachelor,1388.0,591.0,0.509,1
+A00411,29,32482.0,Salaried,Rent,Auto,,5316.0,657.0,0.485,0
+A00412,32,92903.0,Retired,Rent,Home Improvement,High School,2408.0,593.0,0.424,1
+A00413,34,28168.0,Salaried,Own,Auto,Bachelor,4291.0,779.0,0.506,0
+A00414,27,109426.0,Salaried,Mortgage,Auto,Bachelor,4139.0,746.0,0.088,1
+A00415,21,62466.0,Salaried,Rent,Home Improvement,Bachelor,2818.0,703.0,0.096,0
+A00416,54,94553.0,Salaried,Rent,Auto,High School,1569.0,691.0,0.344,0
+A00417,68,82138.0,Salaried,Own,Education,Bachelor,4177.0,770.0,0.336,0
+A00418,26,133361.0,Retired,Mortgage,Business,High School,2793.0,774.0,0.443,0
+A00419,35,81325.0,Self-Employed,Mortgage,Auto,High School,1233.0,755.0,0.358,0
+A00420,45,107874.0,Retired,Own,Auto,High School,2081.0,725.0,0.443,1
+A00421,66,57685.0,Salaried,Rent,Medical,Bachelor,916.0,657.0,0.168,0
+A00422,55,39470.0,Self-Employed,Mortgage,Auto,High School,2119.0,730.0,0.364,1
+A00423,58,100010.0,Salaried,Mortgage,Auto,Bachelor,2923.0,733.0,0.158,0
+A00424,49,39084.0,Salaried,Own,Auto,High School,2578.0,668.0,0.428,0
+A00425,41,92522.0,Salaried,Mortgage,Education,Master,2416.0,657.0,0.076,1
+A00426,30,47504.0,Salaried,Own,Education,,2880.0,754.0,0.42,0
+A00427,63,78298.0,Self-Employed,Mortgage,Auto,Bachelor,3696.0,788.0,0.144,1
+A00428,60,134357.0,Salaried,Own,Business,Master,4565.0,631.0,0.303,0
+A00429,22,89844.0,Salaried,Rent,Business,Bachelor,4877.0,663.0,0.501,0
+A00430,56,65638.0,Self-Employed,Own,Auto,High School,1725.0,703.0,0.392,0
+A00431,25,82838.0,Salaried,Mortgage,Education,Bachelor,5141.0,,0.122,0
+A00432,57,58426.0,Retired,Own,Home Improvement,PhD,2761.0,661.0,0.263,1
+A00433,61,154755.0,Salaried,Own,Medical,PhD,2278.0,802.0,0.129,0
+A00434,27,54081.0,Unemployed,Own,Education,High School,1418.0,647.0,0.104,0
+A00435,42,68218.0,Self-Employed,Own,Medical,Master,384.0,715.0,0.369,0
+A00436,27,86877.0,Self-Employed,Own,Auto,High School,3554.0,794.0,0.446,1
+A00437,48,80648.0,Self-Employed,Mortgage,Business,High School,3472.0,651.0,0.429,0
+A00438,66,83975.0,Unemployed,Rent,Home Improvement,Bachelor,1956.0,614.0,0.447,0
+A00439,24,58856.0,Self-Employed,Own,Home Improvement,Bachelor,1984.0,599.0,0.358,0
+A00440,40,64671.0,Salaried,Mortgage,Auto,Bachelor,2532.0,669.0,0.321,0
+A00441,68,98270.0,Salaried,Mortgage,Education,Master,2234.0,583.0,0.196,1
+A00442,35,96450.0,Self-Employed,Own,Auto,High School,1683.0,729.0,0.289,1
+A00443,27,81351.0,Salaried,Mortgage,Education,Bachelor,1320.0,707.0,0.157,0
+A00444,44,112986.0,Salaried,Own,Education,Bachelor,5199.0,662.0,0.237,0
+A00445,45,99740.0,Salaried,Own,Business,High School,2071.0,673.0,0.37,1
+A00446,53,95360.0,Salaried,Mortgage,Auto,Bachelor,3470.0,729.0,0.343,0
+A00447,36,38843.0,Salaried,Rent,Home Improvement,PhD,3829.0,606.0,0.839,1
+A00448,67,80991.0,Self-Employed,Rent,Auto,Bachelor,3561.0,,0.161,0
+A00449,46,75722.0,Self-Employed,Rent,Auto,High School,3971.0,725.0,0.347,0
+A00450,35,118545.0,Unemployed,Mortgage,Home Improvement,Bachelor,3560.0,504.0,0.145,1
+A00451,68,24709.0,Salaried,Own,Business,PhD,1822.0,725.0,0.314,1
+A00452,66,66839.0,Salaried,Mortgage,Education,Master,2299.0,571.0,0.308,0
+A00453,45,73477.0,Self-Employed,Own,Medical,Bachelor,5088.0,672.0,0.498,0
+A00454,22,47292.0,Salaried,Own,Auto,Bachelor,2017.0,604.0,0.295,1
+A00455,50,50456.0,Self-Employed,Own,Auto,Bachelor,2760.0,773.0,0.338,0
+A00456,48,118693.0,Salaried,Mortgage,Medical,Master,3730.0,605.0,0.295,0
+A00457,28,83857.0,Retired,Mortgage,Education,Master,6139.0,588.0,0.162,0
+A00458,52,134479.0,Salaried,Own,Business,Master,4885.0,689.0,0.263,0
+A00459,62,66401.0,Unemployed,Rent,Auto,Bachelor,1521.0,593.0,0.3,1
+A00460,26,41827.0,Self-Employed,Mortgage,Business,High School,3376.0,582.0,0.385,1
+A00461,56,63014.0,Salaried,Rent,Business,Bachelor,3166.0,714.0,0.449,1
+A00462,27,59197.0,Self-Employed,Own,Auto,High School,2309.0,551.0,0.327,1
+A00463,57,91007.0,Salaried,Mortgage,Auto,High School,2827.0,613.0,0.321,1
+A00464,41,,Self-Employed,Own,Education,Bachelor,1830.0,643.0,0.098,1
+A00465,21,85385.0,Self-Employed,Mortgage,Business,Bachelor,2513.0,732.0,0.44,0
+A00466,68,150969.0,Salaried,Own,Business,Master,2063.0,764.0,0.25,0
+A00467,29,110460.0,Salaried,Own,Business,Master,2963.0,,0.47,1
+A00468,50,,Self-Employed,Mortgage,Education,Master,2254.0,670.0,0.561,0
+A00469,29,100973.0,Salaried,Mortgage,Auto,Master,6416.0,522.0,0.341,1
+A00470,66,71730.0,Retired,Own,Medical,Bachelor,3001.0,720.0,0.209,0
+A00471,57,65745.0,Self-Employed,Rent,Auto,High School,2670.0,776.0,0.36,0
+A00472,60,115742.0,Self-Employed,Own,Business,Bachelor,2445.0,760.0,0.409,1
+A00473,42,50540.0,Salaried,Mortgage,Auto,High School,2258.0,710.0,0.316,1
+A00474,43,98434.0,Self-Employed,Mortgage,Education,High School,1236.0,603.0,0.269,1
+A00475,52,92634.0,Retired,Mortgage,Medical,High School,4331.0,661.0,0.449,0
+A00476,59,50205.0,Salaried,Mortgage,Medical,Master,5682.0,806.0,0.459,0
+A00477,62,38403.0,Salaried,Own,Business,Bachelor,2006.0,588.0,0.314,0
+A00478,21,68864.0,Salaried,Rent,Education,Master,5069.0,605.0,0.124,0
+A00479,53,24012.0,Salaried,Own,Home Improvement,PhD,9201.0,741.0,0.533,0
+A00480,26,105370.0,Self-Employed,Own,Home Improvement,Master,7489.0,652.0,0.256,1
+A00481,35,80877.0,Salaried,Mortgage,Home Improvement,High School,5572.0,603.0,0.403,0
+A00482,61,117188.0,Self-Employed,Rent,Business,Master,1347.0,779.0,0.376,1
+A00483,33,78860.0,Salaried,Rent,Business,Master,1328.0,710.0,0.072,0
+A00484,60,120226.0,Salaried,Rent,Business,Master,3989.0,655.0,0.372,0
+A00485,43,56987.0,Salaried,Rent,Education,High School,2779.0,606.0,0.442,1
+A00486,32,85285.0,Unemployed,Rent,Education,High School,647.0,753.0,0.448,1
+A00487,37,61366.0,Self-Employed,Mortgage,Medical,Master,2158.0,678.0,0.378,0
+A00488,47,68091.0,Salaried,Rent,Auto,High School,3857.0,771.0,0.07,0
+A00489,58,73385.0,Self-Employed,Mortgage,Auto,Bachelor,2530.0,738.0,0.552,0
+A00490,50,80783.0,Salaried,Mortgage,Home Improvement,Bachelor,2798.0,646.0,0.422,1
+A00491,66,54238.0,Salaried,Mortgage,Auto,High School,1321.0,647.0,0.177,0
+A00492,63,83782.0,Salaried,Mortgage,Medical,High School,2149.0,774.0,0.24,0
+A00493,57,72050.0,Retired,Own,Business,PhD,3967.0,790.0,0.401,0
+A00494,50,42621.0,Self-Employed,Mortgage,Auto,Master,2071.0,558.0,0.467,1
+A00495,35,36540.0,Self-Employed,Mortgage,Home Improvement,Master,5268.0,716.0,0.32,0
+A00496,41,105520.0,Salaried,Rent,Auto,High School,2847.0,672.0,0.482,0
+A00497,26,30465.0,Salaried,Mortgage,Home Improvement,,3514.0,613.0,0.116,1
+A00498,39,66885.0,Self-Employed,Rent,Business,Bachelor,3914.0,697.0,0.211,0
+A00499,66,41083.0,Salaried,Mortgage,Auto,Bachelor,3810.0,592.0,0.068,1
+A00500,41,127882.0,Retired,Rent,Auto,High School,1508.0,665.0,0.219,1
+A00501,26,86909.0,Self-Employed,Own,Education,Master,1672.0,628.0,0.582,0
+A00502,52,79996.0,Salaried,Rent,Education,PhD,637.0,648.0,0.661,1
+A00503,68,52528.0,Self-Employed,Mortgage,Auto,Bachelor,2289.0,,0.398,1
+A00504,63,42416.0,Retired,Mortgage,Home Improvement,Bachelor,1581.0,629.0,0.265,1
+A00505,34,75762.0,Salaried,Own,Auto,Bachelor,2045.0,782.0,0.325,0
+A00506,43,70414.0,Self-Employed,Mortgage,Home Improvement,High School,2440.0,712.0,0.431,0
+A00507,47,47559.0,Retired,Mortgage,Auto,High School,3036.0,812.0,0.135,0
+A00508,33,46980.0,Salaried,Rent,Home Improvement,Bachelor,2541.0,670.0,0.28,0
+A00509,34,46164.0,Retired,Rent,Auto,Bachelor,2513.0,659.0,0.582,1
+A00510,32,45617.0,Salaried,Rent,Education,Bachelor,3366.0,794.0,0.215,0
+A00511,69,56319.0,Self-Employed,Mortgage,Medical,Master,2716.0,642.0,0.252,0
+A00512,57,80006.0,Self-Employed,Mortgage,Auto,High School,4500.0,668.0,0.369,1
+A00513,62,84949.0,Self-Employed,Rent,Business,High School,2734.0,727.0,0.402,0
+A00514,61,69889.0,Salaried,Rent,Auto,High School,6146.0,600.0,0.283,1
+A00515,67,74501.0,Self-Employed,Mortgage,Medical,High School,1456.0,726.0,0.367,0
+A00516,26,86445.0,Salaried,Rent,Medical,Bachelor,2277.0,718.0,0.449,1
+A00517,64,33540.0,Salaried,Mortgage,Business,Master,1834.0,763.0,0.661,0
+A00518,24,76630.0,Salaried,Rent,Auto,Master,3119.0,738.0,0.343,1
+A00519,44,112362.0,Self-Employed,Rent,Auto,Bachelor,1465.0,764.0,0.348,1
+A00520,50,66257.0,Salaried,Rent,Auto,Bachelor,1050.0,673.0,0.584,1
+A00521,38,103882.0,Salaried,Own,Education,High School,1645.0,,0.272,0
+A00522,28,66698.0,Retired,Mortgage,Auto,Bachelor,1102.0,832.0,0.156,0
+A00523,30,,Salaried,Own,Home Improvement,High School,2466.0,581.0,0.396,1
+A00524,61,79409.0,Salaried,Rent,Medical,Master,3047.0,587.0,0.523,1
+A00525,36,45906.0,Salaried,Mortgage,Business,Bachelor,941.0,717.0,0.41,0
+A00526,36,49629.0,Salaried,Rent,Education,High School,2180.0,786.0,0.349,1
+A00527,66,120224.0,Self-Employed,Rent,Auto,High School,4866.0,692.0,0.145,0
+A00528,28,95717.0,Salaried,Own,Medical,High School,5626.0,745.0,0.359,0
+A00529,65,68323.0,Salaried,Mortgage,Education,Master,4141.0,550.0,0.553,1
+A00530,66,65086.0,Retired,Mortgage,Education,High School,458.0,663.0,0.167,0
+A00531,50,52652.0,Unemployed,Mortgage,Education,High School,2878.0,498.0,0.33,0
+A00532,29,81891.0,Self-Employed,Own,Medical,High School,5148.0,731.0,0.311,0
+A00533,28,54243.0,Unemployed,Own,Home Improvement,Master,2051.0,519.0,0.257,1
+A00534,34,62050.0,Retired,Mortgage,Auto,Bachelor,1243.0,612.0,0.393,1
+A00535,49,56239.0,Salaried,Mortgage,Medical,Bachelor,4916.0,713.0,0.443,0
+A00536,28,93476.0,Self-Employed,Mortgage,Auto,Bachelor,5348.0,749.0,0.432,0
+A00537,43,67305.0,Self-Employed,Own,Education,High School,2709.0,,0.216,0
+A00538,26,74706.0,Salaried,Mortgage,Business,Master,1253.0,717.0,0.108,0
+A00539,47,46221.0,Salaried,Mortgage,Auto,High School,858.0,715.0,0.395,1
+A00540,22,,Salaried,Mortgage,Medical,High School,3289.0,666.0,0.292,1
+A00541,55,75307.0,Self-Employed,Rent,Education,Bachelor,1857.0,609.0,0.633,1
+A00542,23,39111.0,Self-Employed,Mortgage,Auto,High School,2599.0,717.0,0.653,1
+A00543,30,65490.0,Self-Employed,Mortgage,Home Improvement,High School,2449.0,720.0,0.66,1
+A00544,29,70665.0,Salaried,Rent,Education,Master,1581.0,738.0,0.216,0
+A00545,61,44236.0,Salaried,Mortgage,Business,Bachelor,825.0,700.0,0.441,1
+A00546,23,,Salaried,Mortgage,Education,High School,2100.0,604.0,0.487,1
+A00547,42,80449.0,Salaried,Own,Home Improvement,High School,2957.0,725.0,0.475,1
+A00548,49,67126.0,Retired,Own,Education,Bachelor,3030.0,695.0,0.31,1
+A00549,46,54680.0,Unemployed,Own,Education,High School,1778.0,589.0,0.552,1
+A00550,54,38614.0,Retired,Rent,Business,High School,5241.0,676.0,0.391,1
+A00551,60,99167.0,Unemployed,Rent,Education,Bachelor,1343.0,575.0,0.373,1
+A00552,40,60002.0,Retired,Own,Education,Bachelor,369.0,753.0,0.121,0
+A00553,61,41825.0,Salaried,Own,Home Improvement,PhD,4596.0,588.0,0.48,0
+A00554,36,54136.0,Salaried,Mortgage,Medical,Bachelor,2890.0,615.0,0.327,0
+A00555,69,83569.0,Salaried,Mortgage,Business,High School,2105.0,659.0,0.427,0
+A00556,45,77416.0,Salaried,Mortgage,Business,Bachelor,3546.0,785.0,0.399,0
+A00557,57,47633.0,Salaried,Rent,Home Improvement,Bachelor,2356.0,749.0,0.392,0
+A00558,63,105794.0,Salaried,Rent,Home Improvement,High School,1047.0,573.0,0.346,1
+A00559,59,41638.0,Retired,Mortgage,Medical,Bachelor,1267.0,783.0,0.477,0
+A00560,62,114100.0,Salaried,Rent,Education,High School,2292.0,768.0,0.326,0
+A00561,47,76216.0,Retired,Mortgage,Auto,Master,1937.0,619.0,0.139,1
+A00562,23,61628.0,Self-Employed,Mortgage,Business,Master,4552.0,516.0,0.458,1
+A00563,45,64709.0,Self-Employed,Rent,Home Improvement,Bachelor,1879.0,675.0,0.237,1
+A00564,29,73062.0,Self-Employed,Own,Education,PhD,1811.0,753.0,0.159,0
+A00565,64,85958.0,Salaried,Rent,Auto,PhD,1671.0,783.0,0.202,1
+A00566,32,36412.0,Self-Employed,Rent,Education,High School,1570.0,,0.405,0
+A00567,32,53515.0,Salaried,Rent,Medical,Bachelor,1607.0,794.0,0.345,0
+A00568,33,72216.0,Retired,Mortgage,Home Improvement,Bachelor,1149.0,550.0,0.035,0
+A00569,52,107334.0,Salaried,Mortgage,Auto,High School,2986.0,656.0,0.301,1
+A00570,48,105771.0,Salaried,Rent,Business,,2498.0,653.0,0.532,0
+A00571,67,123175.0,Self-Employed,Rent,Business,High School,2444.0,,0.288,0
+A00572,41,103845.0,Self-Employed,Mortgage,Home Improvement,PhD,904.0,764.0,0.328,0
+A00573,34,52107.0,Salaried,Rent,Auto,Bachelor,3361.0,742.0,0.526,0
+A00574,23,70559.0,Self-Employed,Mortgage,Home Improvement,Master,3562.0,592.0,0.484,1
+A00575,21,104081.0,Salaried,Mortgage,Business,Bachelor,6017.0,736.0,0.521,1
+A00576,39,100228.0,Self-Employed,Rent,Business,High School,3472.0,713.0,0.02,0
+A00577,66,65882.0,Salaried,Mortgage,Auto,Master,6645.0,,0.64,1
+A00578,46,85079.0,Salaried,Mortgage,Medical,High School,1761.0,546.0,0.452,1
+A00579,64,59883.0,Salaried,Rent,Business,High School,6151.0,747.0,0.75,1
+A00580,25,40542.0,Salaried,Rent,Education,Bachelor,3501.0,668.0,0.259,1
+A00581,25,67967.0,Salaried,Rent,Education,Bachelor,3270.0,596.0,0.1,0
+A00582,61,66495.0,Salaried,Mortgage,Medical,High School,2386.0,666.0,0.362,0
+A00583,26,58867.0,Salaried,Rent,Medical,High School,2091.0,704.0,0.319,0
+A00584,23,86085.0,Salaried,Own,Auto,High School,1844.0,675.0,0.454,0
+A00585,40,65092.0,Salaried,Mortgage,Education,High School,6271.0,579.0,0.54,0
+A00586,66,81686.0,Salaried,Mortgage,Auto,High School,2347.0,803.0,0.346,1
+A00587,54,92837.0,Self-Employed,Rent,Home Improvement,Bachelor,3567.0,745.0,0.325,1
+A00588,25,158465.0,Retired,Rent,Home Improvement,High School,4053.0,673.0,0.436,0
+A00589,62,,Salaried,Rent,Education,High School,3962.0,661.0,0.329,0
+A00590,62,107910.0,Retired,Mortgage,Auto,Bachelor,2994.0,718.0,0.307,0
+A00591,60,77009.0,Salaried,Mortgage,Auto,Bachelor,6105.0,607.0,0.529,1
+A00592,65,78632.0,Salaried,Mortgage,Medical,High School,3402.0,701.0,0.552,0
+A00593,32,68716.0,Self-Employed,Mortgage,Home Improvement,High School,1810.0,594.0,0.52,0
+A00594,68,74576.0,Self-Employed,Own,Medical,High School,2156.0,675.0,0.333,0
+A00595,36,65309.0,Unemployed,Mortgage,Auto,PhD,934.0,544.0,0.033,1
+A00596,60,100733.0,Salaried,Rent,Auto,High School,3178.0,607.0,0.337,1
+A00597,49,54209.0,Self-Employed,Rent,Auto,High School,3712.0,787.0,0.257,0
+A00598,59,40411.0,Salaried,Rent,Home Improvement,Bachelor,3883.0,,0.359,0
+A00599,51,58183.0,Salaried,Mortgage,Business,High School,3511.0,693.0,0.267,0
+A00600,52,56004.0,Salaried,Mortgage,Medical,High School,2386.0,549.0,0.36,0
+A00601,51,58172.0,Retired,Own,Education,High School,2656.0,656.0,0.208,0
+A00602,59,67414.0,Salaried,Mortgage,Home Improvement,Bachelor,2664.0,710.0,0.17,0
+A00603,57,58249.0,Unemployed,Mortgage,Education,Bachelor,4559.0,633.0,0.557,1
+A00604,27,67071.0,Self-Employed,Mortgage,Home Improvement,Bachelor,691.0,540.0,0.208,1
+A00605,61,58313.0,Self-Employed,Own,Home Improvement,Master,2006.0,693.0,0.36,1
+A00606,47,82321.0,Self-Employed,Rent,Medical,High School,1392.0,704.0,0.498,0
+A00607,36,157867.0,Unemployed,Mortgage,Home Improvement,Master,7565.0,703.0,0.502,1
+A00608,46,76446.0,Salaried,Mortgage,Auto,Bachelor,5074.0,637.0,0.489,1
+A00609,68,59159.0,Salaried,Own,Business,Master,2058.0,534.0,0.406,0
+A00610,63,29762.0,Self-Employed,Mortgage,Auto,Bachelor,1062.0,615.0,0.469,0
+A00611,61,136231.0,Salaried,Mortgage,Medical,Bachelor,1289.0,,0.559,1
+A00612,43,78009.0,Salaried,Mortgage,Auto,High School,4539.0,728.0,0.431,1
+A00613,59,66856.0,Salaried,Mortgage,Auto,Bachelor,915.0,503.0,0.079,1
+A00614,39,30297.0,Salaried,Own,Auto,High School,2668.0,651.0,0.297,0
+A00615,54,68117.0,Salaried,Rent,Education,Bachelor,4128.0,773.0,0.473,0
+A00616,52,,Salaried,Own,Medical,High School,1195.0,680.0,0.261,0
+A00617,33,58388.0,Retired,Mortgage,Education,High School,2664.0,753.0,0.607,1
+A00618,34,42977.0,Salaried,Own,Education,Master,2073.0,573.0,0.355,1
+A00619,23,42020.0,Retired,Mortgage,Home Improvement,Bachelor,1911.0,591.0,0.376,1
+A00620,27,137102.0,Retired,Mortgage,Home Improvement,Bachelor,1744.0,788.0,0.523,0
+A00621,42,73568.0,Salaried,Rent,Auto,High School,4322.0,687.0,0.34,1
+A00622,44,58370.0,Self-Employed,Mortgage,Education,Bachelor,5651.0,,0.405,1
+A00623,29,71978.0,Self-Employed,Mortgage,Business,Master,2282.0,607.0,0.494,1
+A00624,41,70205.0,Self-Employed,Own,Business,Bachelor,3279.0,687.0,0.143,0
+A00625,50,,Salaried,Own,Education,Bachelor,2692.0,606.0,0.327,1
+A00626,32,98213.0,Salaried,Mortgage,Business,Bachelor,764.0,757.0,0.477,1
+A00627,37,66228.0,Salaried,Mortgage,Auto,High School,2226.0,850.0,0.37,0
+A00628,39,73936.0,Self-Employed,Mortgage,Education,Bachelor,654.0,711.0,0.573,0
+A00629,45,118693.0,Retired,Rent,Business,PhD,1993.0,,0.119,0
+A00630,38,43413.0,Self-Employed,Rent,Business,Bachelor,2615.0,515.0,0.115,0
+A00631,57,53223.0,Self-Employed,Rent,Home Improvement,Bachelor,3935.0,571.0,0.488,1
+A00632,37,79535.0,Retired,Mortgage,Auto,Bachelor,3118.0,796.0,0.492,0
+A00633,42,97481.0,Self-Employed,Rent,Auto,,4401.0,613.0,0.335,1
+A00634,39,56439.0,Salaried,Mortgage,Auto,PhD,1549.0,656.0,0.418,1
+A00635,29,57580.0,Unemployed,Mortgage,Auto,,5261.0,663.0,0.489,0
+A00636,54,88933.0,Salaried,Rent,Auto,Bachelor,5683.0,776.0,0.247,0
+A00637,32,152752.0,Salaried,Rent,Medical,Bachelor,637.0,667.0,0.245,1
+A00638,35,72845.0,Salaried,Rent,Medical,Bachelor,878.0,654.0,0.382,0
+A00639,59,53164.0,Retired,Rent,Business,High School,2583.0,700.0,0.5,1
+A00640,67,47823.0,Salaried,Own,Education,Bachelor,1881.0,639.0,0.187,0
+A00641,53,67342.0,Salaried,Rent,Auto,Master,2070.0,643.0,0.33,0
+A00642,65,95790.0,Salaried,Mortgage,Business,Bachelor,3110.0,707.0,0.323,0
+A00643,62,179970.0,Salaried,Rent,Auto,High School,4559.0,692.0,0.42,1
+A00644,44,63319.0,Salaried,Rent,Home Improvement,Bachelor,1499.0,819.0,0.356,0
+A00645,58,72888.0,Self-Employed,Own,Auto,Bachelor,4894.0,709.0,0.288,0
+A00646,37,127892.0,Unemployed,Own,Medical,,1722.0,695.0,0.541,1
+A00647,43,79055.0,Salaried,Own,Home Improvement,Bachelor,8024.0,610.0,0.3,0
+A00648,47,76641.0,Salaried,Mortgage,Medical,Bachelor,5298.0,714.0,0.327,0
+A00649,68,118106.0,Salaried,Own,Business,Master,1830.0,633.0,0.116,0
+A00650,62,73511.0,Salaried,Rent,Business,High School,1086.0,706.0,0.247,0
+A00651,44,49180.0,Self-Employed,Mortgage,Auto,High School,1784.0,,0.438,1
+A00652,52,108693.0,Self-Employed,Rent,Business,Bachelor,1649.0,683.0,0.403,1
+A00653,30,39038.0,Self-Employed,Mortgage,Home Improvement,High School,3657.0,836.0,0.468,1
+A00654,60,101666.0,Salaried,Mortgage,Home Improvement,Bachelor,645.0,773.0,0.435,1
+A00655,48,70795.0,Self-Employed,Own,Education,,886.0,757.0,0.667,1
+A00656,47,63560.0,Salaried,Rent,Education,High School,3614.0,730.0,0.255,0
+A00657,58,62974.0,Salaried,Own,Business,Bachelor,1593.0,795.0,0.115,0
+A00658,52,67249.0,Retired,Own,Medical,PhD,1992.0,602.0,0.201,0
+A00659,24,60283.0,Self-Employed,Own,Auto,Bachelor,4112.0,769.0,0.265,0
+A00660,35,83271.0,Retired,Rent,Auto,Bachelor,4599.0,631.0,0.22,1
+A00661,29,61038.0,Retired,Own,Auto,Bachelor,5145.0,658.0,0.389,0
+A00662,57,34506.0,Self-Employed,Mortgage,Education,High School,3905.0,716.0,0.572,0
+A00663,22,70985.0,Retired,Rent,Auto,High School,2345.0,775.0,0.591,1
+A00664,30,33834.0,Salaried,Rent,Auto,Bachelor,2216.0,605.0,0.445,0
+A00665,50,70816.0,Salaried,Own,Auto,Bachelor,2076.0,647.0,0.68,1
+A00666,55,59854.0,Salaried,Own,Home Improvement,High School,1195.0,,0.303,1
+A00667,45,98823.0,Salaried,Mortgage,Auto,,1469.0,668.0,0.11,0
+A00668,63,64507.0,Salaried,Own,Auto,Master,4781.0,736.0,0.53,0
+A00669,66,93401.0,Salaried,Rent,Education,High School,1704.0,850.0,0.08,0
+A00670,27,89426.0,Self-Employed,Mortgage,Auto,Bachelor,1206.0,707.0,0.241,0
+A00671,67,90346.0,Self-Employed,Mortgage,Home Improvement,Bachelor,5023.0,632.0,0.445,1
+A00672,51,121908.0,Self-Employed,Own,Home Improvement,Bachelor,3015.0,596.0,0.342,0
+A00673,52,65332.0,Salaried,Mortgage,Education,High School,521.0,659.0,0.324,0
+A00674,25,72501.0,Self-Employed,Own,Education,High School,6354.0,619.0,0.199,1
+A00675,51,82450.0,Salaried,Rent,Education,Bachelor,5995.0,710.0,0.37,1
+A00676,56,73311.0,Salaried,Own,Auto,Bachelor,1274.0,709.0,0.506,1
+A00677,49,64558.0,Salaried,Rent,Education,High School,2488.0,,0.365,1
+A00678,25,50746.0,Salaried,Rent,Auto,Bachelor,1387.0,,0.234,0
+A00679,46,71285.0,Salaried,Own,Auto,Bachelor,1384.0,632.0,0.169,1
+A00680,66,40461.0,Unemployed,Own,Medical,High School,2029.0,612.0,0.244,0
+A00681,56,33045.0,Self-Employed,Mortgage,Auto,Bachelor,3714.0,722.0,0.443,1
+A00682,27,46725.0,Self-Employed,Own,Auto,High School,3735.0,738.0,0.426,1
+A00683,68,89954.0,Salaried,Own,Medical,Bachelor,3503.0,763.0,0.242,0
+A00684,67,77212.0,Unemployed,Rent,Education,High School,2343.0,648.0,0.027,1
+A00685,29,,Self-Employed,Mortgage,Auto,Bachelor,3875.0,748.0,0.426,0
+A00686,60,54910.0,Salaried,Own,Auto,High School,1187.0,637.0,0.222,0
+A00687,40,102648.0,Self-Employed,Mortgage,Auto,Bachelor,3033.0,740.0,0.462,1
+A00688,50,42032.0,Salaried,Mortgage,Auto,Bachelor,2664.0,739.0,0.256,1
+A00689,42,47327.0,Salaried,Rent,Business,Master,2248.0,778.0,0.216,0
+A00690,59,101964.0,Salaried,Own,Home Improvement,Bachelor,3101.0,,0.382,1
+A00691,69,75176.0,Salaried,Rent,Education,Master,597.0,621.0,0.706,1
+A00692,59,90495.0,Salaried,Rent,Education,High School,1414.0,734.0,0.467,0
+A00693,66,77331.0,Salaried,Own,Business,Bachelor,3574.0,508.0,0.384,1
+A00694,67,57662.0,Salaried,Own,Business,High School,2630.0,712.0,0.418,0
+A00695,25,45394.0,Retired,Mortgage,Auto,Bachelor,942.0,764.0,0.094,0
+A00696,33,35717.0,Salaried,Rent,Auto,Bachelor,2585.0,,0.203,1
+A00697,56,132199.0,Salaried,Mortgage,Education,Master,1919.0,652.0,0.02,0
+A00698,49,38539.0,Salaried,Rent,Medical,Bachelor,4827.0,610.0,0.647,1
+A00699,23,116546.0,Retired,Rent,Auto,,1259.0,661.0,0.582,1
+A00700,25,73671.0,Self-Employed,Rent,Education,High School,1280.0,648.0,0.414,1
+A00701,46,78203.0,Retired,Mortgage,Education,High School,3316.0,651.0,0.383,1
+A00702,51,76336.0,Salaried,Mortgage,Auto,Master,2399.0,632.0,0.127,0
+A00703,29,86284.0,Salaried,Rent,Medical,High School,2334.0,662.0,0.325,1
+A00704,29,53052.0,Self-Employed,Mortgage,Business,High School,8015.0,662.0,0.664,0
+A00705,27,31641.0,Salaried,Rent,Medical,Master,3785.0,802.0,0.406,0
+A00706,48,57236.0,Unemployed,Own,Auto,PhD,2149.0,594.0,0.277,1
+A00707,21,83584.0,Unemployed,Own,Auto,Bachelor,864.0,642.0,0.089,1
+A00708,49,47486.0,Salaried,Rent,Home Improvement,Bachelor,2072.0,643.0,0.57,1
+A00709,44,103615.0,Retired,Mortgage,Medical,Master,1171.0,657.0,0.343,0
+A00710,43,67697.0,Self-Employed,Own,Auto,High School,1469.0,569.0,0.093,0
+A00711,54,45975.0,Salaried,Own,Auto,Bachelor,1495.0,578.0,0.221,1
+A00712,46,74907.0,Salaried,Mortgage,Business,Bachelor,4643.0,602.0,0.177,0
+A00713,56,83064.0,Salaried,Rent,Business,,1005.0,692.0,0.334,0
+A00714,58,85283.0,Unemployed,Own,Home Improvement,Master,4393.0,690.0,0.397,1
+A00715,66,24311.0,Salaried,Own,Business,Bachelor,3373.0,564.0,0.316,0
+A00716,60,23325.0,Salaried,Mortgage,Education,High School,3344.0,,0.51,1
+A00717,46,102007.0,Self-Employed,Rent,Education,Bachelor,1438.0,591.0,0.366,1
+A00718,45,40942.0,Salaried,Mortgage,Auto,High School,4040.0,663.0,0.539,0
+A00719,32,102061.0,Salaried,Rent,Business,Master,1329.0,750.0,0.3,0
+A00720,50,105661.0,Self-Employed,Rent,Medical,High School,5749.0,651.0,0.823,1
+A00721,27,45428.0,Salaried,Mortgage,Auto,High School,4681.0,677.0,0.296,1
+A00722,66,48553.0,Salaried,Rent,Home Improvement,Bachelor,6240.0,775.0,0.253,0
+A00723,62,92213.0,Salaried,Rent,Education,Bachelor,2694.0,710.0,0.205,0
+A00724,26,61176.0,Salaried,Mortgage,Auto,Master,2392.0,631.0,0.33,0
+A00725,59,111670.0,Salaried,Mortgage,Education,High School,2059.0,690.0,0.098,0
+A00726,26,123730.0,Self-Employed,Rent,Home Improvement,Master,8012.0,626.0,0.414,1
+A00727,56,45957.0,Retired,Rent,Home Improvement,High School,3703.0,722.0,0.088,1
+A00728,25,52684.0,Salaried,Rent,Medical,High School,1170.0,713.0,0.381,1
+A00729,44,73494.0,Retired,Rent,Home Improvement,Bachelor,5354.0,606.0,0.169,1
+A00730,53,31362.0,Self-Employed,Mortgage,Home Improvement,High School,2326.0,691.0,0.315,1
+A00731,56,36060.0,Self-Employed,Rent,Home Improvement,Bachelor,362.0,672.0,0.444,0
+A00732,41,50585.0,Self-Employed,Rent,Home Improvement,,1630.0,715.0,0.705,1
+A00733,66,140535.0,Self-Employed,Own,Education,High School,4753.0,734.0,0.198,0
+A00734,58,77605.0,Unemployed,Own,Business,Bachelor,3410.0,651.0,0.341,0
+A00735,31,55700.0,Salaried,Mortgage,Medical,High School,3787.0,660.0,0.262,0
+A00736,53,48419.0,Salaried,Rent,Business,Bachelor,5303.0,741.0,0.252,0
+A00737,56,45251.0,Salaried,Mortgage,Auto,Bachelor,753.0,623.0,0.248,1
+A00738,37,57140.0,Salaried,Rent,Business,High School,1644.0,594.0,0.482,1
+A00739,57,55983.0,Self-Employed,Own,Home Improvement,Master,2714.0,472.0,0.291,1
+A00740,65,65099.0,Salaried,Mortgage,Education,High School,4773.0,675.0,0.709,1
+A00741,61,84540.0,Salaried,Mortgage,Home Improvement,Bachelor,1321.0,627.0,0.417,0
+A00742,58,68734.0,Salaried,Own,Education,High School,2145.0,706.0,0.208,0
+A00743,52,94291.0,Salaried,Rent,Auto,Master,2629.0,552.0,0.303,0
+A00744,34,63420.0,Self-Employed,Own,Auto,Bachelor,1594.0,638.0,0.237,1
+A00745,59,127499.0,Self-Employed,Rent,Business,Bachelor,2625.0,711.0,0.476,0
+A00746,38,93422.0,Salaried,Own,Medical,PhD,2397.0,613.0,0.112,0
+A00747,47,76823.0,Salaried,Rent,Education,High School,1873.0,707.0,0.156,1
+A00748,36,84647.0,Salaried,Mortgage,Business,Master,4064.0,644.0,0.276,1
+A00749,36,57692.0,Salaried,Own,Education,Bachelor,3641.0,678.0,0.471,1
+A00750,28,64717.0,Self-Employed,Own,Education,Master,4152.0,719.0,0.554,1
+A00751,68,63817.0,Self-Employed,Own,Home Improvement,Master,4359.0,742.0,0.578,0
+A00752,28,53373.0,Salaried,Mortgage,Business,PhD,6055.0,686.0,0.464,1
+A00753,25,42622.0,Salaried,Rent,Business,High School,916.0,627.0,0.344,0
+A00754,66,86359.0,Retired,Mortgage,Medical,Master,999.0,665.0,0.473,0
+A00755,48,99931.0,Self-Employed,Mortgage,Home Improvement,Master,3879.0,721.0,0.19,0
+A00756,42,81789.0,Salaried,Mortgage,Auto,Bachelor,1984.0,614.0,0.081,0
+A00757,57,68660.0,Salaried,Mortgage,Auto,High School,1826.0,668.0,0.423,1
+A00758,39,150241.0,Salaried,Rent,Auto,PhD,1678.0,655.0,0.202,0
+A00759,27,55451.0,Retired,Mortgage,Medical,High School,4228.0,688.0,0.363,0
+A00760,56,77786.0,Salaried,Rent,Business,Bachelor,7672.0,614.0,0.398,1
+A00761,29,,Salaried,Rent,Business,Bachelor,4376.0,560.0,0.4,1
+A00762,48,46856.0,Retired,Mortgage,Education,High School,1918.0,729.0,0.503,0
+A00763,67,88836.0,Self-Employed,Own,Auto,Bachelor,4130.0,743.0,0.489,0
+A00764,66,130858.0,Salaried,Own,Business,High School,984.0,564.0,0.382,0
+A00765,38,70736.0,Salaried,Mortgage,Home Improvement,Bachelor,303.0,704.0,0.285,0
+A00766,59,,Salaried,Mortgage,Education,Master,2290.0,750.0,0.375,0
+A00767,51,55568.0,Self-Employed,Rent,Auto,High School,755.0,719.0,0.265,0
+A00768,44,84286.0,Salaried,Mortgage,Education,Bachelor,1987.0,653.0,0.328,0
+A00769,27,52916.0,Retired,Mortgage,Education,High School,2889.0,634.0,0.759,0
+A00770,39,69210.0,Retired,Rent,Auto,Master,8452.0,700.0,0.414,0
+A00771,52,40855.0,Salaried,Mortgage,Education,,4968.0,696.0,0.454,1
+A00772,69,27007.0,Self-Employed,Rent,Business,High School,763.0,686.0,0.253,0
+A00773,21,59498.0,Salaried,Own,Education,Bachelor,824.0,,0.507,1
+A00774,56,59157.0,Salaried,Mortgage,Education,Bachelor,1600.0,610.0,0.472,1
+A00775,62,61328.0,Self-Employed,Rent,Auto,Bachelor,6693.0,707.0,0.498,1
+A00776,67,92355.0,Salaried,Rent,Home Improvement,Bachelor,799.0,711.0,0.385,0
+A00777,41,101010.0,Salaried,Rent,Education,,1673.0,693.0,0.51,1
+A00778,26,78989.0,Salaried,Mortgage,Education,Bachelor,1661.0,687.0,0.547,1
+A00779,34,89912.0,Salaried,Rent,Auto,High School,3319.0,789.0,0.404,1
+A00780,62,53449.0,Salaried,Mortgage,Business,Bachelor,4166.0,639.0,0.356,1
+A00781,64,48976.0,Self-Employed,Mortgage,Home Improvement,Master,3656.0,763.0,0.507,0
+A00782,52,84925.0,Unemployed,Own,Auto,High School,3050.0,572.0,0.225,0
+A00783,27,46642.0,Self-Employed,Own,Auto,Bachelor,942.0,752.0,0.248,1
+A00784,26,44874.0,Unemployed,Mortgage,Auto,High School,2757.0,700.0,0.36,1
+A00785,44,182533.0,Salaried,Own,Business,Master,5507.0,661.0,0.098,0
+A00786,49,72406.0,Unemployed,Rent,Home Improvement,,6430.0,728.0,0.501,1
+A00787,22,59171.0,Salaried,Rent,Education,Bachelor,3251.0,710.0,0.222,0
+A00788,54,56784.0,Salaried,Rent,Education,High School,773.0,623.0,0.283,0
+A00789,47,41241.0,Retired,Own,Business,Bachelor,3274.0,671.0,0.342,0
+A00790,21,78375.0,Salaried,Rent,Business,PhD,2387.0,754.0,0.365,1
+A00791,25,63365.0,Salaried,Own,Auto,Bachelor,867.0,740.0,0.303,1
+A00792,43,99910.0,Salaried,Mortgage,Auto,Bachelor,1272.0,611.0,0.344,1
+A00793,56,85914.0,Salaried,Rent,Education,Bachelor,1434.0,671.0,0.346,0
+A00794,61,62590.0,Salaried,Own,Business,Bachelor,3863.0,693.0,0.301,0
+A00795,42,33785.0,Salaried,Own,Business,Bachelor,6238.0,647.0,0.289,0
+A00796,35,72477.0,Retired,Own,Business,High School,3534.0,848.0,0.527,0
+A00797,68,70111.0,Salaried,Mortgage,Home Improvement,High School,3939.0,695.0,0.051,0
+A00798,43,31641.0,Salaried,Rent,Auto,Bachelor,2471.0,676.0,0.343,0
+A00799,36,82235.0,Salaried,Own,Education,Master,1812.0,757.0,0.286,1
+A00800,42,46101.0,Unemployed,Own,Auto,Master,3575.0,596.0,0.436,1
+A00801,21,101905.0,Salaried,Mortgage,Home Improvement,Master,3083.0,745.0,0.141,0
+A00802,35,68566.0,Salaried,Own,Medical,Bachelor,1519.0,572.0,0.282,0
+A00803,46,56219.0,Salaried,Rent,Education,High School,2940.0,651.0,0.35,0
+A00804,66,76211.0,Self-Employed,Rent,Auto,Bachelor,2589.0,748.0,0.521,1
+A00805,57,74489.0,Self-Employed,Rent,Business,PhD,2136.0,782.0,0.408,0
+A00806,59,73488.0,Self-Employed,Rent,Business,Bachelor,1769.0,630.0,0.18,0
+A00807,47,96743.0,Self-Employed,Mortgage,Business,Bachelor,3270.0,622.0,0.287,0
+A00808,26,77920.0,Salaried,Rent,Auto,,1845.0,717.0,0.49,1
+A00809,40,54459.0,Salaried,Own,Home Improvement,Master,7648.0,640.0,0.212,0
+A00810,69,64058.0,Salaried,Own,Business,Master,3461.0,663.0,0.354,1
+A00811,23,115731.0,Salaried,Rent,Business,Master,3312.0,737.0,0.357,1
+A00812,64,52753.0,Salaried,Own,Business,Bachelor,2320.0,645.0,0.305,0
+A00813,54,81744.0,Salaried,Rent,Home Improvement,High School,2023.0,552.0,0.762,1
+A00814,34,98099.0,Salaried,Rent,Home Improvement,Bachelor,644.0,595.0,0.29,0
+A00815,59,84668.0,Self-Employed,Rent,Medical,High School,1591.0,681.0,0.423,1
+A00816,62,72641.0,Salaried,Mortgage,Education,Master,762.0,559.0,0.238,1
+A00817,23,76763.0,Self-Employed,Mortgage,Education,Bachelor,754.0,661.0,0.432,1
+A00818,26,86659.0,Self-Employed,Rent,Business,Bachelor,1140.0,590.0,0.485,0
+A00819,53,52535.0,Salaried,Own,Business,High School,5076.0,,0.291,0
+A00820,69,70277.0,Salaried,Mortgage,Auto,Bachelor,5077.0,821.0,0.363,0
+A00821,22,149885.0,Self-Employed,Rent,Auto,Bachelor,1633.0,611.0,0.219,1
+A00822,53,82676.0,Self-Employed,Rent,Home Improvement,High School,931.0,697.0,0.182,1
+A00823,27,73579.0,Salaried,Rent,Home Improvement,Master,1963.0,618.0,0.514,1
+A00824,52,61761.0,Salaried,Own,Home Improvement,Bachelor,3840.0,660.0,0.286,0
+A00825,51,52740.0,Self-Employed,Mortgage,Education,Bachelor,4497.0,797.0,0.02,0
+A00826,25,77704.0,Self-Employed,Mortgage,Business,High School,2925.0,650.0,0.626,1
+A00827,54,79686.0,Salaried,Own,Home Improvement,Bachelor,3237.0,661.0,0.242,1
+A00828,64,68574.0,Salaried,Mortgage,Education,Bachelor,3048.0,619.0,0.326,0
+A00829,63,174409.0,Retired,Mortgage,Auto,Master,817.0,770.0,0.598,0
+A00830,22,54343.0,Salaried,Own,Home Improvement,High School,994.0,468.0,0.334,1
+A00831,33,49945.0,Unemployed,Mortgage,Auto,PhD,6400.0,591.0,0.364,1
+A00832,32,62075.0,Salaried,Own,Medical,Bachelor,2910.0,677.0,0.18,0
+A00833,43,69370.0,Salaried,Mortgage,Business,High School,521.0,637.0,0.107,0
+A00834,28,51793.0,Salaried,Own,Business,High School,3336.0,736.0,0.344,0
+A00835,62,77018.0,Salaried,Rent,Auto,,1386.0,758.0,0.41,0
+A00836,59,80070.0,Retired,Own,Business,Master,4725.0,603.0,0.414,1
+A00837,60,90462.0,Salaried,Rent,Auto,High School,4448.0,816.0,0.293,0
+A00838,30,58539.0,Retired,Own,Home Improvement,Bachelor,3716.0,602.0,0.372,1
+A00839,21,111955.0,Salaried,Mortgage,Auto,Bachelor,2914.0,764.0,0.082,0
+A00840,65,88193.0,Unemployed,Mortgage,Business,Master,5386.0,630.0,0.437,1
+A00841,35,53957.0,Retired,Own,Business,Bachelor,5665.0,662.0,0.406,0
+A00842,53,51713.0,Self-Employed,Mortgage,Auto,Master,1405.0,653.0,0.654,0
+A00843,65,63586.0,Salaried,Rent,Auto,High School,3696.0,678.0,0.369,1
+A00844,22,80142.0,Self-Employed,Rent,Business,Master,1784.0,694.0,0.215,1
+A00845,21,84418.0,Salaried,Mortgage,Auto,High School,1276.0,620.0,0.347,1
+A00846,21,88131.0,Retired,Own,Auto,,5694.0,680.0,0.32,1
+A00847,28,145947.0,Salaried,Rent,Education,PhD,4096.0,630.0,0.424,0
+A00848,23,35265.0,Salaried,Mortgage,Home Improvement,,3020.0,601.0,0.38,1
+A00849,61,36914.0,Salaried,Own,Medical,High School,1494.0,627.0,0.173,0
+A00850,50,67901.0,Self-Employed,Rent,Education,Bachelor,5770.0,605.0,0.13,1
+A00851,69,140977.0,Retired,Mortgage,Home Improvement,High School,1387.0,668.0,0.392,0
+A00852,60,92010.0,Salaried,Rent,Medical,High School,1169.0,708.0,0.561,1
+A00853,68,48887.0,Self-Employed,Mortgage,Education,Bachelor,2582.0,688.0,0.378,1
+A00854,32,75606.0,Retired,Mortgage,Education,Master,3849.0,823.0,0.487,0
+A00855,35,66455.0,Salaried,Own,Education,Master,2085.0,536.0,0.511,1
+A00856,62,65606.0,Salaried,Rent,Education,High School,16299.0,711.0,0.465,1
+A00857,32,58146.0,Self-Employed,Own,Business,Bachelor,2860.0,680.0,0.243,0
+A00858,23,73387.0,Self-Employed,Rent,Auto,Master,1777.0,733.0,0.387,0
+A00859,53,103952.0,Salaried,Rent,Business,High School,1918.0,727.0,0.537,1
+A00860,60,59988.0,Unemployed,Rent,Auto,High School,6819.0,609.0,0.464,0
+A00861,68,88374.0,Salaried,Own,Education,High School,2451.0,691.0,0.471,0
+A00862,66,94090.0,Retired,Mortgage,Auto,Bachelor,5587.0,647.0,0.298,0
+A00863,26,111602.0,Unemployed,Mortgage,Medical,High School,738.0,660.0,0.322,0
+A00864,58,51409.0,Unemployed,Mortgage,Business,Bachelor,4757.0,498.0,0.36,1
+A00865,62,71293.0,Salaried,Rent,Education,PhD,1552.0,730.0,0.349,1
+A00866,55,55799.0,Salaried,Mortgage,Auto,High School,4093.0,678.0,0.547,1
+A00867,61,73437.0,Salaried,Rent,Auto,Bachelor,1544.0,648.0,0.02,0
+A00868,62,73259.0,Salaried,Own,Business,High School,1997.0,665.0,0.363,0
+A00869,42,47057.0,Self-Employed,Mortgage,Auto,High School,1242.0,670.0,0.346,0
+A00870,22,75004.0,Salaried,Own,Business,Master,4151.0,764.0,0.161,0
+A00871,43,148925.0,Salaried,Rent,Education,Bachelor,4586.0,,0.46,0
+A00872,30,84539.0,Salaried,Own,Auto,Master,1590.0,759.0,0.247,1
+A00873,26,43826.0,Salaried,Mortgage,Business,Bachelor,879.0,643.0,0.302,1
+A00874,27,,Salaried,Rent,Medical,High School,5502.0,721.0,0.66,1
+A00875,55,69993.0,Self-Employed,Mortgage,Auto,Bachelor,1714.0,724.0,0.509,1
+A00876,45,50711.0,Self-Employed,Own,Home Improvement,High School,2358.0,620.0,0.45,0
+A00877,47,109297.0,Salaried,Own,Auto,Master,1410.0,598.0,0.411,1
+A00878,57,42084.0,Unemployed,Mortgage,Education,,3901.0,616.0,0.353,0
+A00879,47,84756.0,Unemployed,Mortgage,Education,High School,3986.0,673.0,0.664,1
+A00880,51,39184.0,Salaried,Own,Medical,Bachelor,6009.0,575.0,0.516,0
+A00881,25,69594.0,Self-Employed,Mortgage,Business,Bachelor,4851.0,633.0,0.258,1
+A00882,62,48198.0,Salaried,Own,Auto,,4645.0,717.0,0.169,0
+A00883,42,90388.0,Salaried,Mortgage,Home Improvement,High School,2510.0,683.0,0.443,1
+A00884,28,102301.0,Salaried,Mortgage,Business,High School,2327.0,772.0,0.348,1
+A00885,60,80055.0,Salaried,Own,Home Improvement,High School,3894.0,,0.15,0
+A00886,56,104083.0,Unemployed,Own,Business,Bachelor,2429.0,773.0,0.421,1
+A00887,23,29215.0,Retired,Own,Home Improvement,Bachelor,4913.0,595.0,0.36,1
+A00888,30,74660.0,Unemployed,Own,Business,High School,1342.0,488.0,0.435,1
+A00889,21,84316.0,Self-Employed,Mortgage,Education,Bachelor,723.0,676.0,0.419,0
+A00890,34,88300.0,Self-Employed,Rent,Education,Bachelor,3636.0,606.0,0.271,1
+A00891,25,35478.0,Retired,Rent,Business,High School,1845.0,692.0,0.461,1
+A00892,55,82502.0,Salaried,Mortgage,Education,Master,1206.0,675.0,0.28,0
+A00893,46,89010.0,Salaried,Mortgage,Business,Bachelor,8188.0,667.0,0.313,0
+A00894,69,74354.0,Self-Employed,Mortgage,Auto,Bachelor,2648.0,625.0,0.281,1
+A00895,57,43973.0,Salaried,Rent,Home Improvement,Bachelor,1011.0,708.0,0.527,0
+A00896,50,57993.0,Salaried,Own,Auto,High School,1711.0,659.0,0.317,1
+A00897,45,109512.0,Salaried,Mortgage,Home Improvement,Master,2208.0,752.0,0.562,1
+A00898,23,104804.0,Self-Employed,Mortgage,Auto,Bachelor,3602.0,668.0,0.628,1
+A00899,24,83748.0,Salaried,Own,Auto,Bachelor,1724.0,617.0,0.245,0
+A00900,51,91097.0,Salaried,Mortgage,Business,Master,2396.0,570.0,0.02,0
+A00901,21,100131.0,Salaried,Rent,Business,Master,3115.0,669.0,0.516,1
+A00902,23,83395.0,Salaried,Rent,Business,Master,3457.0,598.0,0.311,1
+A00903,31,108321.0,Unemployed,Own,Home Improvement,High School,2512.0,532.0,0.227,1
+A00904,64,106952.0,Salaried,Mortgage,Auto,High School,6810.0,714.0,0.281,0
+A00905,43,167661.0,Self-Employed,Mortgage,Home Improvement,,4007.0,,0.295,1
+A00906,55,58850.0,Self-Employed,Mortgage,Education,,3810.0,,0.564,0
+A00907,41,59229.0,Salaried,Mortgage,Medical,Bachelor,3729.0,690.0,0.393,0
+A00908,29,25575.0,Unemployed,Own,Education,Master,4932.0,617.0,0.6,1
+A00909,39,81131.0,Self-Employed,Rent,Auto,,2983.0,613.0,0.435,1
+A00910,25,137645.0,Self-Employed,Rent,Medical,High School,1340.0,730.0,0.307,1
+A00911,58,111577.0,Salaried,Rent,Business,Bachelor,3376.0,680.0,0.301,0
+A00912,29,95271.0,Salaried,Rent,Auto,High School,3621.0,635.0,0.446,1
+A00913,39,114505.0,Retired,Mortgage,Home Improvement,Bachelor,5452.0,708.0,0.487,0
+A00914,69,84871.0,Self-Employed,Mortgage,Medical,Bachelor,1238.0,,0.504,1
+A00915,50,63854.0,Retired,Own,Auto,Bachelor,1448.0,589.0,0.318,1
+A00916,43,151187.0,Retired,Mortgage,Business,,2735.0,622.0,0.382,0
+A00917,47,82593.0,Salaried,Own,Auto,Bachelor,3806.0,703.0,0.451,0
+A00918,59,106064.0,Self-Employed,Rent,Auto,Bachelor,1086.0,680.0,0.295,1
+A00919,33,29152.0,Salaried,Mortgage,Business,High School,1250.0,748.0,0.193,0
+A00920,52,30920.0,Self-Employed,Mortgage,Auto,Bachelor,4302.0,620.0,0.271,0
+A00921,63,75509.0,Salaried,Mortgage,Auto,Bachelor,1112.0,717.0,0.318,1
+A00922,49,50719.0,Salaried,Rent,Business,High School,1459.0,673.0,0.458,0
+A00923,42,78035.0,Self-Employed,Own,Auto,Bachelor,4494.0,619.0,0.556,1
+A00924,28,59200.0,Self-Employed,Own,Business,Master,3759.0,705.0,0.166,0
+A00925,33,177736.0,Self-Employed,Own,Business,High School,1763.0,676.0,0.263,0
+A00926,67,102850.0,Salaried,Rent,Auto,Bachelor,3535.0,639.0,0.307,0
+A00927,47,118774.0,Salaried,Rent,Medical,PhD,3154.0,683.0,0.477,1
+A00928,35,32838.0,Retired,Own,Auto,Master,2422.0,687.0,0.293,0
+A00929,41,94788.0,Salaried,Rent,Business,Bachelor,2061.0,670.0,0.292,0
+A00930,49,66551.0,Salaried,Mortgage,Auto,Bachelor,3433.0,653.0,0.154,0
+A00931,47,119659.0,Self-Employed,Mortgage,Home Improvement,PhD,1191.0,595.0,0.425,0
+A00932,55,89645.0,Salaried,Own,Auto,Bachelor,3423.0,685.0,0.337,1
+A00933,33,70040.0,Self-Employed,Mortgage,Business,High School,2958.0,628.0,0.265,1
+A00934,52,45553.0,Salaried,Rent,Auto,High School,3073.0,614.0,0.331,1
+A00935,42,74981.0,Unemployed,Mortgage,Auto,Master,1421.0,,0.525,1
+A00936,67,108561.0,Retired,Own,Education,Bachelor,5524.0,743.0,0.215,0
+A00937,28,122355.0,Retired,Rent,Medical,High School,1751.0,707.0,0.228,0
+A00938,28,62356.0,Self-Employed,Rent,Home Improvement,High School,1915.0,645.0,0.547,0
+A00939,43,165616.0,Salaried,Mortgage,Auto,,2415.0,643.0,0.366,0
+A00940,45,105319.0,Self-Employed,Mortgage,Auto,,3783.0,721.0,0.461,1
+A00941,54,51083.0,Unemployed,Rent,Education,Master,3021.0,464.0,0.428,1
+A00942,40,47039.0,Self-Employed,Own,Education,Bachelor,855.0,732.0,0.35,0
+A00943,65,68077.0,Self-Employed,Rent,Home Improvement,PhD,2622.0,558.0,0.309,0
+A00944,44,62299.0,Self-Employed,Mortgage,Home Improvement,Master,2754.0,588.0,0.488,1
+A00945,27,85121.0,Self-Employed,Rent,Home Improvement,High School,5579.0,647.0,0.544,1
+A00946,26,72112.0,Self-Employed,Own,Auto,Bachelor,2172.0,821.0,0.522,0
+A00947,68,64200.0,Salaried,Mortgage,Education,High School,3569.0,789.0,0.189,0
+A00948,27,39921.0,Salaried,Mortgage,Business,PhD,10232.0,726.0,0.623,0
+A00949,67,90670.0,Self-Employed,Mortgage,Education,High School,5048.0,703.0,0.313,0
+A00950,34,38791.0,Salaried,Rent,Business,Bachelor,1360.0,,0.247,0
+A00951,25,105451.0,Unemployed,Rent,Auto,Master,4077.0,,0.336,1
+A00952,35,33998.0,Self-Employed,Own,Education,High School,3400.0,644.0,0.505,1
+A00953,51,38051.0,Salaried,Mortgage,Home Improvement,Master,2115.0,627.0,0.448,0
+A00954,41,51001.0,Unemployed,Mortgage,Auto,High School,4068.0,630.0,0.336,1
+A00955,59,60308.0,Self-Employed,Mortgage,Home Improvement,Bachelor,1351.0,649.0,0.482,0
+A00956,50,55905.0,Self-Employed,Mortgage,Education,Bachelor,1755.0,737.0,0.38,0
+A00957,40,60214.0,Salaried,Rent,Auto,Bachelor,2389.0,554.0,0.276,1
+A00958,52,78610.0,Unemployed,Rent,Auto,Bachelor,2067.0,625.0,0.252,1
+A00959,68,51418.0,Salaried,Own,Auto,Master,3817.0,623.0,0.434,0
+A00960,41,78880.0,Self-Employed,Mortgage,Medical,High School,2583.0,653.0,0.347,0
+A00961,28,29268.0,Salaried,Mortgage,Auto,Bachelor,1922.0,,0.163,0
+A00962,41,50739.0,Self-Employed,Mortgage,Business,Master,4968.0,607.0,0.506,1
+A00963,62,37441.0,Self-Employed,Own,Home Improvement,Master,3726.0,691.0,0.308,0
+A00964,31,104983.0,Self-Employed,Mortgage,Education,High School,991.0,666.0,0.592,0
+A00965,67,53823.0,Salaried,Mortgage,Auto,Master,969.0,637.0,0.145,1
+A00966,49,88542.0,Unemployed,Own,Education,High School,1950.0,589.0,0.33,1
+A00967,50,35282.0,Self-Employed,Rent,Business,Bachelor,1069.0,670.0,0.254,0
+A00968,36,121552.0,Salaried,Mortgage,Medical,Bachelor,4576.0,630.0,0.215,1
+A00969,66,73658.0,Retired,Mortgage,Auto,Master,1815.0,695.0,0.284,0
+A00970,22,145297.0,Self-Employed,Mortgage,Medical,High School,3615.0,662.0,0.623,1
+A00971,35,70565.0,Retired,Rent,Medical,High School,4021.0,655.0,0.389,1
+A00972,41,40083.0,Retired,Own,Education,Master,644.0,798.0,0.236,0
+A00973,44,48533.0,Retired,Own,Auto,High School,1861.0,722.0,0.087,0
+A00974,44,64943.0,Self-Employed,Mortgage,Home Improvement,Bachelor,2324.0,655.0,0.103,0
+A00975,28,49186.0,Self-Employed,Mortgage,Auto,Bachelor,3100.0,689.0,0.288,0
+A00976,32,100975.0,Salaried,Mortgage,Auto,Bachelor,4415.0,613.0,0.268,0
+A00977,25,72837.0,Salaried,Rent,Auto,High School,8372.0,652.0,0.351,1
+A00978,49,49400.0,Self-Employed,Own,Medical,High School,6372.0,,0.048,0
+A00979,38,95038.0,Salaried,Own,Education,PhD,2571.0,599.0,0.344,0
+A00980,48,61805.0,Unemployed,Mortgage,Auto,,2539.0,645.0,0.516,1
+A00981,49,93393.0,Salaried,Rent,Education,High School,6044.0,647.0,0.613,1
+A00982,55,58243.0,Salaried,Rent,Business,High School,2641.0,657.0,0.079,0
+A00983,47,86232.0,Salaried,Rent,Education,High School,1846.0,643.0,0.236,0
+A00984,52,61018.0,Salaried,Mortgage,Home Improvement,,4573.0,850.0,0.244,0
+A00985,49,100988.0,Salaried,Rent,Education,High School,3216.0,637.0,0.381,0
+A00986,52,35531.0,Salaried,Rent,Auto,High School,955.0,546.0,0.175,0
+A00987,51,44286.0,Unemployed,Own,Home Improvement,Bachelor,2174.0,516.0,0.617,1
+A00988,36,67087.0,Salaried,Mortgage,Business,High School,1098.0,,0.361,1
+A00989,33,54687.0,Salaried,Rent,Education,High School,362.0,767.0,0.334,0
+A00990,59,60339.0,Salaried,Mortgage,Home Improvement,PhD,6881.0,636.0,0.623,1
+A00991,37,89972.0,Salaried,Rent,Medical,Bachelor,2863.0,763.0,0.357,0
+A00992,47,59879.0,Salaried,Mortgage,Education,High School,2230.0,728.0,0.421,0
+A00993,30,79933.0,Self-Employed,Mortgage,Home Improvement,Bachelor,1937.0,668.0,0.245,0
+A00994,42,50613.0,Self-Employed,Own,Business,High School,2668.0,663.0,0.16,0
+A00995,46,33119.0,Salaried,Rent,Education,High School,1907.0,692.0,0.276,0
+A00996,51,93172.0,Self-Employed,Rent,Business,Bachelor,1390.0,737.0,0.683,1
+A00997,46,132522.0,Salaried,Own,Education,Bachelor,2012.0,706.0,0.45,0
+A00998,38,76828.0,Salaried,Mortgage,Auto,Bachelor,5697.0,,0.413,1
+A00999,68,68440.0,Retired,Own,Home Improvement,Master,4519.0,684.0,0.223,0
+A01000,46,73823.0,Salaried,Own,Medical,High School,1994.0,809.0,0.495,0

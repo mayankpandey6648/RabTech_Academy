@@ -1,0 +1,5 @@
+model,best_params,cv_roc_auc_mean,test_roc_auc,test_precision,test_recall,test_f1
+LightGBM,"{'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__n_estimators': 200}",0.6642,0.7248,0.6543,0.5824,0.6163
+Logistic Regression,"{'model__C': 10, 'model__penalty': 'l2'}",0.7238,0.7164,0.6447,0.5385,0.5868
+Random Forest,"{'model__max_depth': 6, 'model__min_samples_leaf': 1, 'model__n_estimators': 200}",0.7005,0.7164,0.65,0.5714,0.6082
+XGBoost,"{'model__learning_rate': 0.05, 'model__max_depth': 3, 'model__n_estimators': 200}",0.6717,0.7034,0.6386,0.5824,0.6092

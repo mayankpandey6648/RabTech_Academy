@@ -1,6 +1,7 @@
-numpy
 pandas
-scikit-learn>=1.2
+numpy
+scikit-learn>=1.3
+xgboost
+lightgbm
 matplotlib
-seaborn
-jupyter
+joblib
